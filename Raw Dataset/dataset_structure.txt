@@ -1,0 +1,13 @@
+1. customers -> (customer_id(pk), customer_name, customer_type, age, gender, state, email, contact, registration_date)
+2. suppliers -> (supplier_id(pk), supplier_name, state, contact_person, email, contact, rating, registration_date)
+3. products -> (product_id(pk), product_name, category, sub_category, brand, unit, length_cm, width_cm, height_cm, 
+			unit_weight, selling_price, reorder_level, prod_status)
+4. warehouse -> (warehouse_id(pk), warehouse_name, state, capacity_vol_m3, capacity_kg, contact)
+5. inventory -> (inventory_id(pk), warehouse_id(fk_inventory_warehouse), product_id(fk_inventory_product), 
+				current_stock, reserved_stock, safety_stock, last_restock_date)
+6. purchase_orders ->  (purchase_order_id(pk), order_date, supplier_id(fk_po_supplier), product_id(fk_po_product),
+						warehouse_id(fk_po_warehouse), order_qty, unit_cost, exp_del_date, act_del_date, def_qty,
+						trans_mode, freight_cost, payment_terms, payment_method)
+7. sales_orders -> (sales_order_id(pk), order_date, customer_id(fk_so_customer), product_id(fk_so_product),
+				warehouse_id(fk_so_warehouse), order_qty, unit_price, discount, shipping_cost, shipping_method,
+				payment_method, exp_del_date, act_del_date)
