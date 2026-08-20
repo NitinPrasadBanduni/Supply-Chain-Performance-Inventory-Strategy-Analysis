@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand,Unit_Of_Measure,Length_cm,Width_cm,Height_cm,Unit_Weight_kg,Selling_Price,Reorder_Level,Status
+PROD0001,Dell Accessories Model-763,Electronics,Accessories,Dell,Pcs,37.3,25.7,3.3,0.66,26977.87,122,Active
+PROD0002,Samsung Microwaves Model-579,Home Appliances,Microwaves,Samsung,Set,72.0,77.1,110.1,34.63,7527.62,37,Active
+PROD0003,Nestlé Confectionery Model-126,FMCG - Food,Confectionery,Nestlé,Pack,9.6,15.1,26.1,2.96,36.18,360,Active
+PROD0004,Unilever Skincare Model-581,FMCG - Personal Care,Skincare,Unilever,Box,11.2,11.3,12.7,0.61,780.0,61,Active
+PROD0005,Reliance Air Fresheners Model-428,FMCG - Home Care,Air Fresheners,Reliance,Pack,22.2,9.9,27.3,1.58,852.87,290,Discontinued
+PROD0006,Peter England Men's Wear Model-358,Apparel,Men's Wear,Peter England,Set,22.3,26.6,7.2,1.02,304.83,268,Active
+PROD0007,Sparx Formal Shoes Model-470,Footwear,Formal Shoes,Sparx,Box,31.3,20.3,11.0,1.17,5594.97,41,Active
+PROD0008,Nilkamal Bedroom Model-418,Furniture,Bedroom,Nilkamal,Pcs,100.7,45.6,119.4,41.34,16958.5,69,Active
+PROD0009,Philips Bike Accessories Model-822,Automotive Accessories,Bike Accessories,Philips,Set,26.6,24.5,16.8,2.85,1328.21,303,Active
+PROD0010,ITC Classmate Writing Instruments Model-382,Office Supplies,Writing Instruments,ITC Classmate,Set,15.2,20.8,5.5,0.06,1097.29,47,Active
+PROD0011,Stanley Measuring Instruments Model-557,Industrial Tools,Measuring Instruments,Stanley,Box,34.2,18.6,24.1,4.71,14026.36,25,Active
+PROD0012,Zydus Medical Devices Model-144,Health & Wellness,Medical Devices,Zydus,Pcs,19.9,15.6,13.1,0.83,2024.7,19,Active
+PROD0013,Milton Cookware Model-614,Kitchenware,Cookware,Milton,Box,21.6,12.5,26.9,0.68,4565.64,186,Active
+PROD0014,Funskool Educational Toys Model-580,Toys & Games,Educational Toys,Funskool,Box,20.2,23.9,18.0,2.14,3012.73,98,Active
+PROD0015,Nivia Team Sports Model-136,Sports & Fitness,Team Sports,Nivia,Pair,22.2,28.9,28.0,14.96,9024.5,16,Active
+PROD0016,Johnson & Johnson Baby Food Model-270,Baby Care,Baby Food,Johnson & Johnson,Pcs,22.0,10.9,22.8,0.32,960.31,212,Active
+PROD0017,American Tourister Travel Suitcases Model-279,Luggage & Bags,Travel Suitcases,American Tourister,Pcs,43.3,24.6,60.7,2.44,5165.26,50,Active
+PROD0018,Pidilite Fasteners Model-109,Hardware,Fasteners,Pidilite,Litre,27.5,15.2,7.4,4.47,1414.98,131,Active
+PROD0019,Havells Audio Model-965,Electronics,Audio,Havells,Set,16.0,14.6,10.7,0.91,49127.12,139,Active
+PROD0020,Voltas Microwaves Model-108,Home Appliances,Microwaves,Voltas,Pcs,84.6,67.3,156.6,59.18,50983.81,32,Active
+PROD0021,Nestlé Beverages Model-794,FMCG - Food,Beverages,Nestlé,Box,17.6,18.6,20.1,1.58,363.84,18,Active
+PROD0022,Emami Oral Care Model-865,FMCG - Personal Care,Oral Care,Emami,Pack,5.9,5.1,18.1,0.97,660.48,20,Active
+PROD0023,Reliance Air Fresheners Model-864,FMCG - Home Care,Air Fresheners,Reliance,Box,21.1,12.0,11.9,3.82,234.03,35,Active
+PROD0024,Peter England Innerwear Model-192,Apparel,Innerwear,Peter England,Set,20.3,23.0,4.7,0.86,3123.83,50,Active
+PROD0025,Bata Sports Shoes Model-339,Footwear,Sports Shoes,Bata,Box,25.3,21.2,12.8,1.68,1639.66,360,Active
+PROD0026,Pepperfry Office Furniture Model-219,Furniture,Office Furniture,Pepperfry,Pcs,45.0,42.2,119.7,7.88,9365.8,34,Active
+PROD0027,Philips Electronics Model-860,Automotive Accessories,Electronics,Philips,Box,16.2,22.4,7.5,3.04,3383.3,54,Active
+PROD0028,JK Paper Writing Instruments Model-555,Office Supplies,Writing Instruments,JK Paper,Pack,30.7,7.0,10.9,1.66,1467.43,100,Active
+PROD0029,Havells Power Tools Model-193,Industrial Tools,Power Tools,Havells,Box,20.6,28.5,29.3,0.89,5335.88,150,Active
+PROD0030,Dr. Morepen Supplements Model-312,Health & Wellness,Supplements,Dr. Morepen,Box,21.3,8.5,12.7,1.6,1828.35,68,Active
+PROD0031,Milton Storage Containers Model-212,Kitchenware,Storage Containers,Milton,Box,40.3,13.3,17.2,3.98,3005.94,83,Active
+PROD0032,Mitashi Soft Toys Model-216,Toys & Games,Soft Toys,Mitashi,Set,11.9,19.0,12.2,1.52,1691.62,128,Discontinued
+PROD0033,Decathlon Yoga Accessories Model-758,Sports & Fitness,Yoga Accessories,Decathlon,Pcs,21.4,24.4,15.0,10.35,6010.66,59,Active
+PROD0034,Nestlé Baby Bath Model-251,Baby Care,Baby Bath,Nestlé,Pack,15.0,28.7,37.2,2.88,1014.17,225,Active
+PROD0035,VIP Duffle Bags Model-912,Luggage & Bags,Duffle Bags,VIP,Pcs,50.6,31.3,64.6,3.36,2220.18,24,Active
+PROD0036,Hindware Paints & Finishes Model-525,Hardware,Paints & Finishes,Hindware,Pcs,12.8,9.7,8.8,9.54,2762.94,173,Active
+PROD0037,Titan Smartphones Model-198,Electronics,Smartphones,Titan,Box,32.2,25.3,12.0,2.09,48260.94,17,Active
+PROD0038,LG Microwaves Model-394,Home Appliances,Microwaves,LG,Set,51.1,58.9,69.8,44.4,16515.3,366,Active
+PROD0039,Nestlé Snacks Model-687,FMCG - Food,Snacks,Nestlé,Box,21.1,17.7,29.3,4.1,498.59,53,Active
+PROD0040,Dabur Oral Care Model-284,FMCG - Personal Care,Oral Care,Dabur,Pack,11.7,6.5,15.1,0.06,1050.34,101,Active
+PROD0041,Godrej Detergents Model-864,FMCG - Home Care,Detergents,Godrej,Litre,12.5,11.8,13.9,1.7,318.97,48,Active
+PROD0042,Allen Solly Men's Wear Model-261,Apparel,Men's Wear,Allen Solly,Pack,21.0,16.2,4.7,0.6,2849.72,77,Active
+PROD0043,Puma Sports Shoes Model-540,Footwear,Sports Shoes,Puma,Pair,27.8,19.7,12.4,1.33,654.34,126,Active
+PROD0044,Durian Bedroom Model-316,Furniture,Bedroom,Durian,Pcs,124.1,57.4,49.6,23.89,15926.94,118,Active
+PROD0045,Bosch Bike Accessories Model-506,Automotive Accessories,Bike Accessories,Bosch,Box,11.7,10.6,28.0,5.2,4690.92,50,Active
+PROD0046,JK Paper Paper Products Model-121,Office Supplies,Paper Products,JK Paper,Pcs,10.2,24.0,8.0,2.08,561.92,63,Active
+PROD0047,Schneider Electric Measuring Instruments Model-180,Industrial Tools,Measuring Instruments,Schneider Electric,Set,53.5,31.9,10.5,9.42,1607.5,117,Active
+PROD0048,Patanjali Personal Hygiene Model-844,Health & Wellness,Personal Hygiene,Patanjali,Box,9.7,7.2,7.0,1.24,2304.62,21,Active
+PROD0049,Hawkins Small Kitchen Appliances Model-872,Kitchenware,Small Kitchen Appliances,Hawkins,Box,36.6,21.2,28.5,2.91,3231.2,130,Active
+PROD0050,Funskool Soft Toys Model-580,Toys & Games,Soft Toys,Funskool,Box,28.9,25.9,16.8,0.94,444.83,54,Active
+PROD0051,SG Yoga Accessories Model-760,Sports & Fitness,Yoga Accessories,SG,Pcs,79.6,25.2,16.6,8.4,9553.86,265,Active
+PROD0052,MamyPoko Diapers Model-719,Baby Care,Diapers,MamyPoko,Box,30.1,38.7,29.8,3.26,2109.71,171,Active
+PROD0053,VIP Travel Suitcases Model-353,Luggage & Bags,Travel Suitcases,VIP,Set,54.7,28.1,57.4,1.89,7843.49,31,Active
+PROD0054,Pidilite Electrical Fittings Model-762,Hardware,Electrical Fittings,Pidilite,Pack,6.6,6.4,15.2,2.91,2908.75,48,Active
+PROD0055,Sony Audio Model-696,Electronics,Audio,Sony,Box,14.2,13.7,19.4,2.47,34046.08,390,Active
+PROD0056,Godrej Water Purifiers Model-758,Home Appliances,Water Purifiers,Godrej,Set,78.8,63.5,156.1,49.33,45338.4,132,Active
+PROD0057,Parle Confectionery Model-118,FMCG - Food,Confectionery,Parle,Kg,11.2,19.3,11.6,3.84,169.76,19,Active
+PROD0058,Dabur Skincare Model-777,FMCG - Personal Care,Skincare,Dabur,Pack,13.6,8.9,19.0,0.2,257.97,129,Active
+PROD0059,Patanjali Surface Cleaners Model-548,FMCG - Home Care,Surface Cleaners,Patanjali,Pack,13.2,15.1,15.9,2.33,285.04,107,Active
+PROD0060,Peter England Women's Wear Model-928,Apparel,Women's Wear,Peter England,Set,38.1,17.9,6.1,0.75,2150.51,34,Active
+PROD0061,Adidas Sandals Model-936,Footwear,Sandals,Adidas,Pair,33.0,16.0,11.3,1.3,5295.05,63,Active
+PROD0062,Durian Living Room Model-185,Furniture,Living Room,Durian,Pcs,70.0,94.3,51.8,21.37,33204.84,38,Active
+PROD0063,3M Car Care Model-154,Automotive Accessories,Car Care,3M,Set,30.1,17.1,29.9,2.37,419.86,364,Active
+PROD0064,Reynolds Desk Organizers Model-240,Office Supplies,Desk Organizers,Reynolds,Box,13.6,21.6,11.0,0.46,1067.14,50,Active
+PROD0065,Taparia Power Tools Model-320,Industrial Tools,Power Tools,Taparia,Pcs,37.4,31.3,18.2,1.6,4677.47,162,Active
+PROD0066,Dabur First Aid Model-213,Health & Wellness,First Aid,Dabur,Set,16.9,5.2,10.2,0.56,516.37,307,Active
+PROD0067,Milton Small Kitchen Appliances Model-780,Kitchenware,Small Kitchen Appliances,Milton,Box,13.0,34.4,11.4,2.73,2610.54,45,Discontinued
+PROD0068,Funskool Soft Toys Model-750,Toys & Games,Soft Toys,Funskool,Box,39.4,15.1,5.3,1.99,1337.85,130,Active
+PROD0069,SS Yoga Accessories Model-145,Sports & Fitness,Yoga Accessories,SS,Set,72.3,34.4,9.4,11.73,5709.32,50,Active
+PROD0070,Himalaya Diapers Model-833,Baby Care,Diapers,Himalaya,Box,11.5,16.0,48.5,3.55,857.43,35,Active
+PROD0071,Wildcraft Duffle Bags Model-137,Luggage & Bags,Duffle Bags,Wildcraft,Pcs,33.6,36.6,32.2,3.09,2685.73,261,Active
+PROD0072,Hindware Paints & Finishes Model-447,Hardware,Paints & Finishes,Hindware,Box,17.4,12.5,18.9,5.24,3214.53,15,Active
+PROD0073,Wipro Laptops Model-400,Electronics,Laptops,Wipro,Set,13.1,13.2,7.3,1.62,61340.15,38,Active
+PROD0074,Blue Star Refrigerators Model-729,Home Appliances,Refrigerators,Blue Star,Set,46.5,79.0,172.7,9.5,42344.53,20,Active
+PROD0075,Bikaji Beverages Model-135,FMCG - Food,Beverages,Bikaji,Box,6.3,16.7,12.3,1.95,462.45,38,Active
+PROD0076,Boroplus Oral Care Model-881,FMCG - Personal Care,Oral Care,Boroplus,Pcs,10.3,8.2,16.0,0.67,337.05,21,Active
+PROD0077,Unilever Air Fresheners Model-220,FMCG - Home Care,Air Fresheners,Unilever,Box,20.5,15.6,15.4,3.14,636.82,75,Active
+PROD0078,Reliance Men's Wear Model-276,Apparel,Men's Wear,Reliance,Pack,28.9,16.3,6.1,1.04,1642.27,14,Active
+PROD0079,Puma Casual Shoes Model-971,Footwear,Casual Shoes,Puma,Pair,32.1,21.5,13.2,1.51,3249.03,75,Active
+PROD0080,Pepperfry Bedroom Model-126,Furniture,Bedroom,Pepperfry,Set,100.9,62.1,104.3,26.17,22000.27,89,Active
+PROD0081,Philips Electronics Model-520,Automotive Accessories,Electronics,Philips,Set,42.9,12.2,29.3,3.93,3709.8,238,Active
+PROD0082,Reynolds Writing Instruments Model-543,Office Supplies,Writing Instruments,Reynolds,Box,29.9,15.4,6.0,0.53,1404.06,392,Active
+PROD0083,Bosch Safety Gear Model-356,Industrial Tools,Safety Gear,Bosch,Pcs,41.8,25.6,8.1,3.84,8235.43,20,Active
+PROD0084,Himalaya Medical Devices Model-774,Health & Wellness,Medical Devices,Himalaya,Pcs,21.9,13.5,13.3,0.15,231.84,123,Active
+PROD0085,Cello Dinnerware Model-526,Kitchenware,Dinnerware,Cello,Box,32.4,22.5,22.5,1.59,4789.75,35,Active
+PROD0086,Funskool Board Games Model-261,Toys & Games,Board Games,Funskool,Box,22.5,19.3,11.8,0.44,3042.9,32,Active
+PROD0087,Cosco Cricket Gear Model-627,Sports & Fitness,Cricket Gear,Cosco,Pair,26.1,17.3,8.1,6.85,1905.31,34,Active
+PROD0088,Pampers Strollers Model-986,Baby Care,Strollers,Pampers,Pack,42.5,38.0,44.7,0.84,482.42,269,Active
+PROD0089,Skybags Handbags Model-123,Luggage & Bags,Handbags,Skybags,Pcs,53.4,27.6,73.5,1.28,3323.16,41,Active
+PROD0090,Finolex Paints & Finishes Model-649,Hardware,Paints & Finishes,Finolex,Pcs,26.2,11.5,18.2,7.3,3067.23,252,Active
+PROD0091,Dell Accessories Model-471,Electronics,Accessories,Dell,Box,18.7,14.7,10.1,1.97,70361.09,306,Active
+PROD0092,Godrej Refrigerators Model-482,Home Appliances,Refrigerators,Godrej,Set,63.5,48.3,60.2,41.15,27586.69,54,Active
+PROD0093,Bikaji Staples Model-631,FMCG - Food,Staples,Bikaji,Litre,8.0,18.4,5.9,4.66,268.45,49,Active
+PROD0094,Emami Oral Care Model-619,FMCG - Personal Care,Oral Care,Emami,Box,9.9,9.7,14.5,0.82,473.61,103,Active
+PROD0095,Unilever Detergents Model-585,FMCG - Home Care,Detergents,Unilever,Box,24.3,16.7,29.4,2.97,660.4,71,Active
+PROD0096,Reliance Innerwear Model-251,Apparel,Innerwear,Reliance,Pack,24.8,23.6,6.2,0.35,2152.36,255,Active
+PROD0097,Sparx Sandals Model-893,Footwear,Sandals,Sparx,Box,33.7,20.2,10.3,0.59,1561.11,134,Active
+PROD0098,Durian Storage Model-277,Furniture,Storage,Durian,Set,140.3,60.5,68.3,35.42,25650.97,26,Active
+PROD0099,Studds Helmets Model-385,Automotive Accessories,Helmets,Studds,Box,21.9,38.2,29.6,4.67,5698.23,41,Active
+PROD0100,Cello Desk Organizers Model-914,Office Supplies,Desk Organizers,Cello,Pcs,13.6,16.5,9.1,2.69,609.96,148,Active
+PROD0101,Bosch Safety Gear Model-394,Industrial Tools,Safety Gear,Bosch,Box,14.0,37.6,21.4,9.04,3602.81,84,Active
+PROD0102,Himalaya Personal Hygiene Model-211,Health & Wellness,Personal Hygiene,Himalaya,Box,9.8,15.0,10.3,1.31,252.22,40,Active
+PROD0103,Prestige Dinnerware Model-663,Kitchenware,Dinnerware,Prestige,Pcs,24.2,33.4,27.6,2.49,1117.36,91,Active
+PROD0104,Funskool Board Games Model-767,Toys & Games,Board Games,Funskool,Set,17.0,24.8,22.0,0.19,3240.85,21,Active
+PROD0105,Decathlon Fitness Equipment Model-906,Sports & Fitness,Fitness Equipment,Decathlon,Set,34.6,32.5,26.8,4.48,690.23,304,Active
+PROD0106,MamyPoko Baby Bath Model-565,Baby Care,Baby Bath,MamyPoko,Pcs,31.7,24.8,56.6,3.42,1223.25,17,Active
+PROD0107,Wildcraft Duffle Bags Model-835,Luggage & Bags,Duffle Bags,Wildcraft,Pcs,25.4,23.4,43.3,3.17,2045.29,131,Active
+PROD0108,Anchor Paints & Finishes Model-435,Hardware,Paints & Finishes,Anchor,Pcs,15.0,6.4,19.7,4.83,14113.66,38,Active
+PROD0109,Logitech Audio Model-696,Electronics,Audio,Logitech,Box,27.2,11.5,8.5,0.9,57160.48,70,Active
+PROD0110,Voltas Water Purifiers Model-806,Home Appliances,Water Purifiers,Voltas,Pcs,68.3,77.0,91.5,18.25,62335.03,39,Active
+PROD0111,Parle Confectionery Model-525,FMCG - Food,Confectionery,Parle,Litre,20.1,17.0,25.1,3.82,550.67,351,Active
+PROD0112,Emami Soaps & Bodywash Model-179,FMCG - Personal Care,Soaps & Bodywash,Emami,Box,5.2,10.6,23.5,0.24,667.16,43,Active
+PROD0113,Patanjali Surface Cleaners Model-697,FMCG - Home Care,Surface Cleaners,Patanjali,Pcs,6.8,12.7,30.2,2.38,481.39,164,Active
+PROD0114,VIP Kids Wear Model-122,Apparel,Kids Wear,VIP,Set,25.1,15.0,3.3,0.23,2079.53,119,Active
+PROD0115,Campus Sports Shoes Model-132,Footwear,Sports Shoes,Campus,Box,29.1,20.4,13.8,1.77,4016.93,34,Active
+PROD0116,Pepperfry Storage Model-182,Furniture,Storage,Pepperfry,Pcs,111.9,60.9,54.3,25.56,19216.23,24,Active
+PROD0117,Vega Car Care Model-574,Automotive Accessories,Car Care,Vega,Box,38.8,22.7,14.5,1.53,3792.88,22,Active
+PROD0118,ITC Classmate Paper Products Model-928,Office Supplies,Paper Products,ITC Classmate,Set,23.4,23.7,13.6,0.76,128.92,107,Active
+PROD0119,Stanley Power Tools Model-858,Industrial Tools,Power Tools,Stanley,Pcs,30.1,15.5,10.4,10.41,1318.44,224,Active
+PROD0120,Dr. Morepen Personal Hygiene Model-712,Health & Wellness,Personal Hygiene,Dr. Morepen,Pcs,9.7,18.1,14.9,1.09,1299.32,121,Active
+PROD0121,Bajaj Dinnerware Model-795,Kitchenware,Dinnerware,Bajaj,Set,29.5,11.2,16.9,3.29,1998.6,328,Active
+PROD0122,Mattel Educational Toys Model-485,Toys & Games,Educational Toys,Mattel,Pcs,32.6,19.5,22.0,0.82,2535.0,13,Active
+PROD0123,Nivia Team Sports Model-642,Sports & Fitness,Team Sports,Nivia,Pcs,55.8,17.6,13.3,1.37,5535.0,44,Active
+PROD0124,Himalaya Diapers Model-374,Baby Care,Diapers,Himalaya,Box,36.9,28.1,53.0,0.83,1928.07,121,Active
+PROD0125,Wildcraft Travel Suitcases Model-410,Luggage & Bags,Travel Suitcases,Wildcraft,Pcs,31.4,19.8,63.4,3.46,6534.65,48,Active
+PROD0126,Havells Paints & Finishes Model-665,Hardware,Paints & Finishes,Havells,Pack,24.4,10.7,13.0,3.66,1083.17,41,Active
+PROD0127,JBL Wearables Model-308,Electronics,Wearables,JBL,Set,19.4,6.1,17.6,2.62,2559.23,47,Active
+PROD0128,Voltas Microwaves Model-256,Home Appliances,Microwaves,Voltas,Pcs,49.8,49.0,156.7,34.96,43413.0,82,Active
+PROD0129,Bikaji Dairy Products Model-571,FMCG - Food,Dairy Products,Bikaji,Box,19.7,10.3,5.9,2.76,163.56,132,Active
+PROD0130,Dabur Grooming Model-959,FMCG - Personal Care,Grooming,Dabur,Pcs,14.4,9.3,21.5,0.44,1018.93,19,Discontinued
+PROD0131,Dabur Insecticides Model-482,FMCG - Home Care,Insecticides,Dabur,Pack,17.4,15.0,25.4,2.52,1885.67,10,Discontinued
+PROD0132,Titan Kids Wear Model-393,Apparel,Kids Wear,Titan,Pcs,30.0,25.5,4.6,1.14,1052.92,284,Active
+PROD0133,Sparx Formal Shoes Model-639,Footwear,Formal Shoes,Sparx,Box,33.2,16.9,12.0,0.92,2673.75,328,Active
+PROD0134,Godrej Interio Living Room Model-195,Furniture,Living Room,Godrej Interio,Set,81.7,73.2,44.5,3.4,7241.35,37,Active
+PROD0135,Philips Bike Accessories Model-978,Automotive Accessories,Bike Accessories,Philips,Pcs,45.8,37.6,10.7,5.43,5599.84,27,Discontinued
+PROD0136,Camlin Paper Products Model-656,Office Supplies,Paper Products,Camlin,Box,10.4,22.0,2.2,0.66,241.96,360,Active
+PROD0137,Taparia Power Tools Model-266,Industrial Tools,Power Tools,Taparia,Box,22.0,34.7,14.7,10.79,5310.08,18,Active
+PROD0138,Dr. Morepen Supplements Model-863,Health & Wellness,Supplements,Dr. Morepen,Pcs,6.1,11.6,13.4,0.75,2330.12,35,Active
+PROD0139,Prestige Storage Containers Model-749,Kitchenware,Storage Containers,Prestige,Set,37.4,21.3,14.6,2.85,1970.82,47,Active
+PROD0140,Mitashi Board Games Model-402,Toys & Games,Board Games,Mitashi,Pcs,31.4,11.6,8.1,1.81,2291.87,30,Active
+PROD0141,SG Fitness Equipment Model-415,Sports & Fitness,Fitness Equipment,SG,Set,52.8,18.1,8.3,2.97,5523.91,102,Active
+PROD0142,MamyPoko Baby Food Model-667,Baby Care,Baby Food,MamyPoko,Pack,33.9,33.5,52.5,0.15,1093.14,45,Active
+PROD0143,Safari Travel Suitcases Model-633,Luggage & Bags,Travel Suitcases,Safari,Pcs,45.6,19.2,42.1,1.5,1667.48,220,Active
+PROD0144,Asian Paints Paints & Finishes Model-469,Hardware,Paints & Finishes,Asian Paints,Pack,28.6,15.8,12.4,6.21,1858.55,50,Active
+PROD0145,Bajaj Audio Model-489,Electronics,Audio,Bajaj,Set,23.2,15.8,16.8,2.31,51010.13,127,Active
+PROD0146,Bajaj Washing Machines Model-421,Home Appliances,Washing Machines,Bajaj,Pcs,87.9,78.4,80.8,46.7,33187.96,81,Active
+PROD0147,Haldiram Staples Model-473,FMCG - Food,Staples,Haldiram,Pack,23.6,8.0,29.9,0.94,618.74,39,Active
+PROD0148,Boroplus Haircare Model-916,FMCG - Personal Care,Haircare,Boroplus,Pack,13.1,4.6,22.7,0.81,823.92,29,Active
+PROD0149,Patanjali Surface Cleaners Model-533,FMCG - Home Care,Surface Cleaners,Patanjali,Pcs,6.5,19.9,22.0,2.12,475.69,36,Active
+PROD0150,VIP Kids Wear Model-931,Apparel,Kids Wear,VIP,Pack,31.9,28.7,2.7,0.41,3091.71,49,Discontinued
+PROD0151,Relaxo Sandals Model-439,Footwear,Sandals,Relaxo,Box,26.1,15.7,11.1,1.45,3524.76,78,Active
+PROD0152,Pepperfry Storage Model-890,Furniture,Storage,Pepperfry,Pcs,77.9,41.5,48.4,20.47,33717.88,143,Active
+PROD0153,Vega Bike Accessories Model-566,Automotive Accessories,Bike Accessories,Vega,Pcs,30.8,20.4,7.4,4.39,3729.09,12,Active
+PROD0154,ITC Classmate Paper Products Model-969,Office Supplies,Paper Products,ITC Classmate,Pcs,24.4,18.5,4.1,2.95,388.55,20,Active
+PROD0155,Havells Measuring Instruments Model-337,Industrial Tools,Measuring Instruments,Havells,Set,41.5,14.0,21.4,4.93,11192.13,38,Active
+PROD0156,Dabur First Aid Model-821,Health & Wellness,First Aid,Dabur,Box,9.1,16.3,13.1,0.22,395.08,21,Active
+PROD0157,Hawkins Dinnerware Model-216,Kitchenware,Dinnerware,Hawkins,Set,33.5,22.2,29.3,1.7,2034.9,17,Active
+PROD0158,Mitashi Soft Toys Model-276,Toys & Games,Soft Toys,Mitashi,Set,31.2,15.9,17.3,0.3,642.03,228,Active
+PROD0159,Puma Yoga Accessories Model-244,Sports & Fitness,Yoga Accessories,Puma,Pair,55.8,27.9,19.4,6.46,5968.38,21,Active
+PROD0160,MamyPoko Strollers Model-243,Baby Care,Strollers,MamyPoko,Pack,22.6,23.5,7.9,1.5,123.0,358,Active
+PROD0161,Skybags Duffle Bags Model-801,Luggage & Bags,Duffle Bags,Skybags,Set,37.5,36.0,52.0,0.74,746.89,87,Discontinued
+PROD0162,Anchor Plumbing Model-395,Hardware,Plumbing,Anchor,Box,24.5,13.5,16.6,5.0,2067.68,84,Active
+PROD0163,Wipro Audio Model-942,Electronics,Audio,Wipro,Pcs,32.8,16.0,5.9,1.55,62875.85,25,Active
+PROD0164,Bajaj Refrigerators Model-369,Home Appliances,Refrigerators,Bajaj,Set,81.7,34.3,161.1,12.04,53243.06,47,Active
+PROD0165,Haldiram Confectionery Model-269,FMCG - Food,Confectionery,Haldiram,Box,20.7,17.2,24.6,2.87,435.18,20,Active
+PROD0166,Hindustan Unilever Oral Care Model-686,FMCG - Personal Care,Oral Care,Hindustan Unilever,Pack,14.5,8.1,23.5,0.82,205.93,36,Active
+PROD0167,Patanjali Dishwashing Model-229,FMCG - Home Care,Dishwashing,Patanjali,Litre,10.0,15.7,30.7,3.86,621.56,123,Active
+PROD0168,Reliance Ethnic Wear Model-562,Apparel,Ethnic Wear,Reliance,Pcs,32.7,28.2,2.6,0.69,1468.55,97,Active
+PROD0169,Puma Sandals Model-695,Footwear,Sandals,Puma,Pair,33.7,20.9,10.5,1.76,3955.11,14,Active
+PROD0170,Nilkamal Storage Model-539,Furniture,Storage,Nilkamal,Pcs,94.4,59.4,62.7,25.99,5874.91,31,Active
+PROD0171,Bosch Car Care Model-201,Automotive Accessories,Car Care,Bosch,Box,41.4,23.8,8.1,5.17,17904.45,75,Active
+PROD0172,Camlin Writing Instruments Model-262,Office Supplies,Writing Instruments,Camlin,Pcs,7.8,12.2,3.1,2.01,983.9,130,Active
+PROD0173,Havells Hand Tools Model-771,Industrial Tools,Hand Tools,Havells,Pcs,45.2,8.0,16.9,1.85,3779.77,10,Discontinued
+PROD0174,Dabur Personal Hygiene Model-980,Health & Wellness,Personal Hygiene,Dabur,Set,18.9,12.2,7.3,0.27,2437.27,244,Active
+PROD0175,Hawkins Dinnerware Model-892,Kitchenware,Dinnerware,Hawkins,Pcs,32.5,26.9,11.4,2.9,3110.05,239,Active
+PROD0176,Hasbro Educational Toys Model-730,Toys & Games,Educational Toys,Hasbro,Set,23.3,14.3,22.9,0.44,606.42,239,Active
+PROD0177,SS Yoga Accessories Model-353,Sports & Fitness,Yoga Accessories,SS,Set,82.7,17.4,20.0,10.87,3597.82,11,Active
+PROD0178,Pampers Baby Bath Model-630,Baby Care,Baby Bath,Pampers,Pcs,30.4,32.4,21.3,0.31,2254.99,276,Active
+PROD0179,Skybags Travel Suitcases Model-753,Luggage & Bags,Travel Suitcases,Skybags,Pcs,40.8,39.4,74.4,4.23,1555.86,46,Active
+PROD0180,Hindware Plumbing Model-888,Hardware,Plumbing,Hindware,Pcs,5.4,6.0,8.9,0.49,288.85,42,Active
+PROD0181,Titan Accessories Model-533,Electronics,Accessories,Titan,Box,22.1,21.0,11.7,0.62,8205.43,23,Active
+PROD0182,Crompton Washing Machines Model-434,Home Appliances,Washing Machines,Crompton,Set,65.2,68.2,131.0,43.59,21885.59,80,Active
+PROD0183,Haldiram Snacks Model-218,FMCG - Food,Snacks,Haldiram,Litre,17.2,5.8,20.7,3.31,157.0,67,Active
+PROD0184,Boroplus Haircare Model-455,FMCG - Personal Care,Haircare,Boroplus,Box,9.7,10.6,13.9,0.4,912.24,17,Active
+PROD0185,Reliance Detergents Model-926,FMCG - Home Care,Detergents,Reliance,Pcs,10.4,6.0,27.8,2.97,106.28,33,Active
+PROD0186,Allen Solly Innerwear Model-476,Apparel,Innerwear,Allen Solly,Pcs,25.1,16.5,5.4,0.91,1259.3,161,Active
+PROD0187,Adidas Sports Shoes Model-147,Footwear,Sports Shoes,Adidas,Box,28.6,21.4,10.9,1.74,598.04,332,Active
+PROD0188,Nilkamal Storage Model-429,Furniture,Storage,Nilkamal,Pcs,85.8,83.2,61.7,6.27,13989.07,13,Active
+PROD0189,3M Car Care Model-170,Automotive Accessories,Car Care,3M,Set,44.6,33.2,12.8,0.7,3762.62,224,Active
+PROD0190,Cello Desk Organizers Model-348,Office Supplies,Desk Organizers,Cello,Set,16.0,24.4,15.0,2.34,1106.72,81,Active
+PROD0191,Bosch Measuring Instruments Model-338,Industrial Tools,Measuring Instruments,Bosch,Box,27.3,34.9,26.9,11.43,521.2,29,Active
+PROD0192,Zydus Medical Devices Model-603,Health & Wellness,Medical Devices,Zydus,Pack,24.5,7.1,7.8,0.18,771.27,36,Active
+PROD0193,Hawkins Storage Containers Model-865,Kitchenware,Storage Containers,Hawkins,Pcs,30.3,22.6,22.7,2.09,3020.69,18,Active
+PROD0194,Mattel Action Figures Model-920,Toys & Games,Action Figures,Mattel,Box,31.0,24.7,11.4,0.75,446.47,47,Active
+PROD0195,SS Fitness Equipment Model-560,Sports & Fitness,Fitness Equipment,SS,Set,48.0,13.6,14.0,11.6,5560.03,65,Active
+PROD0196,Nestlé Baby Bath Model-141,Baby Care,Baby Bath,Nestlé,Pack,43.4,19.8,10.0,1.07,953.78,136,Active
+PROD0197,VIP Travel Suitcases Model-514,Luggage & Bags,Travel Suitcases,VIP,Set,41.7,28.8,34.3,0.82,6850.48,165,Active
+PROD0198,Havells Plumbing Model-302,Hardware,Plumbing,Havells,Litre,14.3,14.5,14.7,5.87,1072.34,155,Active
+PROD0199,Havells Laptops Model-928,Electronics,Laptops,Havells,Pcs,12.8,26.2,16.6,0.52,80163.12,123,Active
+PROD0200,Bajaj Microwaves Model-130,Home Appliances,Microwaves,Bajaj,Set,71.0,38.6,70.1,16.23,19990.91,12,Active
+PROD0201,Britannia Confectionery Model-762,FMCG - Food,Confectionery,Britannia,Kg,15.0,18.2,15.4,0.48,318.75,43,Active
+PROD0202,Dabur Grooming Model-491,FMCG - Personal Care,Grooming,Dabur,Box,8.0,8.4,17.3,0.92,627.75,21,Discontinued
+PROD0203,Tata Insecticides Model-130,FMCG - Home Care,Insecticides,Tata,Box,6.2,19.9,23.2,3.88,899.66,16,Active
+PROD0204,Peter England Women's Wear Model-646,Apparel,Women's Wear,Peter England,Pack,21.1,29.9,3.3,1.04,3649.04,21,Active
+PROD0205,Relaxo Casual Shoes Model-855,Footwear,Casual Shoes,Relaxo,Box,34.1,15.2,13.5,1.73,3556.2,74,Active
+PROD0206,Tata Storage Model-416,Furniture,Storage,Tata,Pcs,93.9,45.4,58.6,12.19,92537.87,22,Active
+PROD0207,Amaron Bike Accessories Model-281,Automotive Accessories,Bike Accessories,Amaron,Set,12.4,14.4,22.6,1.02,1065.18,96,Active
+PROD0208,JK Paper Desk Organizers Model-700,Office Supplies,Desk Organizers,JK Paper,Box,15.1,11.5,14.7,2.21,672.2,274,Active
+PROD0209,Schneider Electric Hand Tools Model-810,Industrial Tools,Hand Tools,Schneider Electric,Box,49.3,15.1,19.7,2.35,4948.94,66,Active
+PROD0210,Omron Supplements Model-686,Health & Wellness,Supplements,Omron,Set,22.0,16.6,10.7,0.45,1022.83,128,Active
+PROD0211,Hawkins Cookware Model-244,Kitchenware,Cookware,Hawkins,Set,36.1,15.9,29.6,1.01,4443.8,50,Active
+PROD0212,Hasbro Action Figures Model-111,Toys & Games,Action Figures,Hasbro,Box,16.3,23.9,12.0,1.99,2577.36,38,Active
+PROD0213,Decathlon Cricket Gear Model-604,Sports & Fitness,Cricket Gear,Decathlon,Set,51.9,21.3,25.7,11.87,7042.15,24,Active
+PROD0214,Himalaya Baby Food Model-401,Baby Care,Baby Food,Himalaya,Pack,22.7,38.5,9.1,0.76,1001.1,45,Active
+PROD0215,Wildcraft Backpacks Model-708,Luggage & Bags,Backpacks,Wildcraft,Set,46.1,25.8,59.4,2.89,3973.6,31,Active
+PROD0216,Hindware Plumbing Model-813,Hardware,Plumbing,Hindware,Pack,21.5,9.5,6.4,3.99,2221.17,13,Active
+PROD0217,Sony Wearables Model-401,Electronics,Wearables,Sony,Box,28.8,17.0,3.7,0.8,54680.38,110,Active
+PROD0218,Godrej Air Conditioners Model-582,Home Appliances,Air Conditioners,Godrej,Set,83.7,43.3,129.9,28.25,25688.78,21,Active
+PROD0219,Bikaji Staples Model-576,FMCG - Food,Staples,Bikaji,Kg,9.5,9.0,3.7,3.77,540.63,32,Active
+PROD0220,Colgate Soaps & Bodywash Model-666,FMCG - Personal Care,Soaps & Bodywash,Colgate,Pcs,13.2,10.5,16.3,0.56,1046.93,375,Active
+PROD0221,Godrej Dishwashing Model-504,FMCG - Home Care,Dishwashing,Godrej,Pack,15.0,18.5,30.0,3.45,573.43,146,Active
+PROD0222,Allen Solly Women's Wear Model-927,Apparel,Women's Wear,Allen Solly,Pcs,22.5,21.4,7.9,0.61,4488.53,48,Active
+PROD0223,Nike Sports Shoes Model-497,Footwear,Sports Shoes,Nike,Box,30.5,21.0,12.6,1.68,469.24,300,Active
+PROD0224,Godrej Interio Storage Model-524,Furniture,Storage,Godrej Interio,Pcs,56.3,75.3,100.7,42.47,32485.09,16,Active
+PROD0225,3M Bike Accessories Model-370,Automotive Accessories,Bike Accessories,3M,Set,36.2,27.2,16.8,1.2,3343.2,137,Active
+PROD0226,JK Paper Paper Products Model-439,Office Supplies,Paper Products,JK Paper,Pack,6.5,14.5,5.5,1.15,526.66,29,Active
+PROD0227,Bosch Measuring Instruments Model-989,Industrial Tools,Measuring Instruments,Bosch,Pcs,16.7,39.2,16.1,9.96,4406.59,315,Active
+PROD0228,Himalaya First Aid Model-943,Health & Wellness,First Aid,Himalaya,Set,19.8,16.4,13.7,1.66,1594.28,29,Active
+PROD0229,Milton Small Kitchen Appliances Model-899,Kitchenware,Small Kitchen Appliances,Milton,Box,40.8,10.7,13.9,4.2,4209.34,108,Active
+PROD0230,Lego Action Figures Model-380,Toys & Games,Action Figures,Lego,Box,34.7,20.1,17.7,0.4,300.86,48,Active
+PROD0231,Nivia Team Sports Model-664,Sports & Fitness,Team Sports,Nivia,Set,51.1,35.1,11.5,12.5,1312.11,13,Active
+PROD0232,Pampers Diapers Model-762,Baby Care,Diapers,Pampers,Pack,37.1,18.1,27.5,0.18,1972.73,10,Active
+PROD0233,American Tourister Travel Suitcases Model-715,Luggage & Bags,Travel Suitcases,American Tourister,Pcs,31.7,30.2,72.4,3.32,6174.95,98,Active
+PROD0234,Finolex Paints & Finishes Model-323,Hardware,Paints & Finishes,Finolex,Litre,12.6,12.8,14.4,5.89,79.02,33,Active
+PROD0235,Bajaj Accessories Model-389,Electronics,Accessories,Bajaj,Set,30.5,17.0,8.1,1.04,28446.49,133,Active
+PROD0236,Bosch Air Conditioners Model-253,Home Appliances,Air Conditioners,Bosch,Pcs,84.0,70.3,152.3,41.0,43783.15,11,Active
+PROD0237,Nestlé Staples Model-528,FMCG - Food,Staples,Nestlé,Litre,12.8,5.5,21.8,2.88,168.13,206,Active
+PROD0238,Emami Soaps & Bodywash Model-619,FMCG - Personal Care,Soaps & Bodywash,Emami,Pack,13.3,10.7,23.1,0.22,162.24,26,Active
+PROD0239,Tata Insecticides Model-796,FMCG - Home Care,Insecticides,Tata,Box,18.1,8.3,15.6,4.38,401.61,97,Active
+PROD0240,Reliance Kids Wear Model-971,Apparel,Kids Wear,Reliance,Pcs,29.4,28.0,5.5,1.14,599.11,114,Active
+PROD0241,Sparx Sandals Model-405,Footwear,Sandals,Sparx,Box,25.5,21.0,10.7,0.68,2691.47,39,Active
+PROD0242,Godrej Interio Bedroom Model-599,Furniture,Bedroom,Godrej Interio,Set,109.4,50.6,90.8,3.2,10663.18,193,Active
+PROD0243,3M Helmets Model-904,Automotive Accessories,Helmets,3M,Pcs,15.2,23.0,15.7,2.69,15959.99,143,Active
+PROD0244,Camlin Paper Products Model-875,Office Supplies,Paper Products,Camlin,Pack,5.5,5.1,11.5,0.72,1319.17,63,Active
+PROD0245,Stanley Safety Gear Model-166,Industrial Tools,Safety Gear,Stanley,Pcs,24.9,17.3,23.2,7.28,5398.61,67,Active
+PROD0246,Patanjali First Aid Model-868,Health & Wellness,First Aid,Patanjali,Box,8.3,18.6,13.1,0.14,750.53,77,Active
+PROD0247,Prestige Dinnerware Model-475,Kitchenware,Dinnerware,Prestige,Box,32.8,10.9,27.5,1.43,2743.46,162,Active
+PROD0248,Funskool Board Games Model-806,Toys & Games,Board Games,Funskool,Pcs,22.5,17.6,15.9,1.24,705.32,50,Discontinued
+PROD0249,Puma Team Sports Model-203,Sports & Fitness,Team Sports,Puma,Pair,69.6,28.7,22.5,6.4,10808.81,129,Active
+PROD0250,Himalaya Baby Food Model-609,Baby Care,Baby Food,Himalaya,Pack,34.4,33.3,50.7,3.9,959.01,70,Discontinued
+PROD0251,American Tourister Duffle Bags Model-804,Luggage & Bags,Duffle Bags,American Tourister,Set,34.9,15.1,60.2,4.12,7181.86,69,Active
+PROD0252,Pidilite Electrical Fittings Model-840,Hardware,Electrical Fittings,Pidilite,Pcs,27.6,14.7,11.9,9.78,1093.29,21,Active
+PROD0253,JBL Audio Model-920,Electronics,Audio,JBL,Box,19.4,23.5,3.7,2.68,5045.51,20,Active
+PROD0254,Voltas Microwaves Model-999,Home Appliances,Microwaves,Voltas,Pcs,52.4,47.1,55.9,29.02,31033.67,40,Active
+PROD0255,Tata Beverages Model-235,FMCG - Food,Beverages,Tata,Pack,24.6,17.7,4.9,4.56,396.49,38,Active
+PROD0256,Emami Soaps & Bodywash Model-726,FMCG - Personal Care,Soaps & Bodywash,Emami,Pcs,13.5,11.0,20.9,0.9,605.54,102,Active
+PROD0257,Reliance Detergents Model-770,FMCG - Home Care,Detergents,Reliance,Box,5.2,18.0,23.1,3.77,662.45,31,Active
+PROD0258,Raymond Innerwear Model-543,Apparel,Innerwear,Raymond,Pack,34.5,22.2,6.0,0.82,924.35,49,Active
+PROD0259,Sparx Formal Shoes Model-969,Footwear,Formal Shoes,Sparx,Box,33.5,21.1,10.4,1.09,1748.99,56,Active
+PROD0260,Pepperfry Storage Model-936,Furniture,Storage,Pepperfry,Pcs,48.7,66.7,85.8,6.7,18198.28,41,Active
+PROD0261,Bosch Car Care Model-513,Automotive Accessories,Car Care,Bosch,Set,11.4,26.5,25.6,4.79,7712.74,115,Active
+PROD0262,Camlin Filing Model-472,Office Supplies,Filing,Camlin,Box,29.5,21.9,6.3,2.31,911.93,33,Active
+PROD0263,Bosch Power Tools Model-877,Industrial Tools,Power Tools,Bosch,Box,21.1,18.9,25.7,11.58,4733.76,329,Active
+PROD0264,Zydus Medical Devices Model-243,Health & Wellness,Medical Devices,Zydus,Set,7.1,14.2,6.9,1.87,1239.4,22,Active
+PROD0265,Hawkins Cookware Model-147,Kitchenware,Cookware,Hawkins,Box,39.3,24.7,25.4,2.36,3343.51,184,Active
+PROD0266,Mitashi Board Games Model-853,Toys & Games,Board Games,Mitashi,Pcs,26.6,18.7,16.7,2.32,2777.57,47,Active
+PROD0267,SG Cricket Gear Model-496,Sports & Fitness,Cricket Gear,SG,Pair,78.1,36.5,17.6,5.89,11759.13,25,Active
+PROD0268,MamyPoko Baby Bath Model-563,Baby Care,Baby Bath,MamyPoko,Pack,15.5,28.1,53.8,2.1,2123.38,30,Active
+PROD0269,American Tourister Travel Suitcases Model-314,Luggage & Bags,Travel Suitcases,American Tourister,Set,45.6,38.0,36.0,3.31,8301.44,44,Active
+PROD0270,Pidilite Fasteners Model-218,Hardware,Fasteners,Pidilite,Pack,19.1,13.7,19.1,7.13,2713.26,286,Active
+PROD0271,Samsung Wearables Model-635,Electronics,Wearables,Samsung,Pcs,10.8,8.6,14.1,0.78,64065.5,86,Active
+PROD0272,LG Washing Machines Model-807,Home Appliances,Washing Machines,LG,Set,42.2,57.1,90.2,32.16,41006.8,45,Active
+PROD0273,Haldiram Confectionery Model-343,FMCG - Food,Confectionery,Haldiram,Kg,18.9,5.7,12.7,2.11,634.73,120,Active
+PROD0274,Colgate Oral Care Model-735,FMCG - Personal Care,Oral Care,Colgate,Pack,13.1,11.3,20.6,0.67,918.37,48,Active
+PROD0275,Reliance Surface Cleaners Model-559,FMCG - Home Care,Surface Cleaners,Reliance,Litre,24.7,6.1,34.1,3.73,142.64,221,Active
+PROD0276,Allen Solly Women's Wear Model-698,Apparel,Women's Wear,Allen Solly,Set,20.1,22.0,7.6,0.19,4200.24,149,Active
+PROD0277,Campus Casual Shoes Model-908,Footwear,Casual Shoes,Campus,Box,25.7,20.0,12.6,1.74,3315.4,20,Active
+PROD0278,Godrej Interio Storage Model-457,Furniture,Storage,Godrej Interio,Pcs,137.2,79.8,66.5,15.33,33335.33,110,Active
+PROD0279,Bosch Car Care Model-784,Automotive Accessories,Car Care,Bosch,Set,27.8,37.1,20.3,3.8,7679.4,30,Active
+PROD0280,JK Paper Paper Products Model-362,Office Supplies,Paper Products,JK Paper,Pcs,5.7,15.3,12.0,1.57,777.84,28,Active
+PROD0281,Taparia Hand Tools Model-626,Industrial Tools,Hand Tools,Taparia,Pcs,57.4,13.4,28.9,6.59,606.29,135,Active
+PROD0282,Omron Medical Devices Model-534,Health & Wellness,Medical Devices,Omron,Pack,9.1,17.4,13.8,1.51,1362.19,59,Active
+PROD0283,Prestige Dinnerware Model-570,Kitchenware,Dinnerware,Prestige,Box,21.6,12.2,11.1,4.01,2856.71,24,Active
+PROD0284,Hasbro Soft Toys Model-561,Toys & Games,Soft Toys,Hasbro,Set,22.1,16.3,12.8,0.38,219.47,14,Active
+PROD0285,Puma Fitness Equipment Model-968,Sports & Fitness,Fitness Equipment,Puma,Pcs,52.6,25.1,12.2,10.35,7377.15,38,Active
+PROD0286,Johnson & Johnson Baby Food Model-260,Baby Care,Baby Food,Johnson & Johnson,Pcs,18.8,32.4,48.8,3.41,807.95,29,Active
+PROD0287,VIP Handbags Model-666,Luggage & Bags,Handbags,VIP,Pcs,28.7,15.1,56.8,2.6,8075.84,32,Active
+PROD0288,Havells Plumbing Model-288,Hardware,Plumbing,Havells,Box,20.4,8.8,6.7,6.74,2290.81,342,Active
+PROD0289,Havells Accessories Model-760,Electronics,Accessories,Havells,Box,12.2,21.8,6.5,0.77,49853.92,32,Active
+PROD0290,Samsung Washing Machines Model-391,Home Appliances,Washing Machines,Samsung,Pcs,84.0,45.9,103.1,41.98,21604.72,122,Active
+PROD0291,Haldiram Staples Model-272,FMCG - Food,Staples,Haldiram,Pack,11.3,16.8,21.9,3.22,235.81,323,Active
+PROD0292,Boroplus Soaps & Bodywash Model-556,FMCG - Personal Care,Soaps & Bodywash,Boroplus,Pack,12.5,7.9,11.6,0.66,144.27,361,Active
+PROD0293,Tata Insecticides Model-369,FMCG - Home Care,Insecticides,Tata,Pack,19.5,18.4,31.2,3.23,738.87,47,Active
+PROD0294,Titan Men's Wear Model-366,Apparel,Men's Wear,Titan,Pack,37.9,23.1,5.9,0.31,1948.49,47,Active
+PROD0295,Adidas Casual Shoes Model-575,Footwear,Casual Shoes,Adidas,Pair,29.0,18.5,13.3,1.59,4916.62,71,Active
+PROD0296,Pepperfry Bedroom Model-263,Furniture,Bedroom,Pepperfry,Pcs,102.3,73.9,109.8,9.14,26022.15,160,Active
+PROD0297,Studds Electronics Model-164,Automotive Accessories,Electronics,Studds,Set,24.8,11.3,10.2,5.46,3017.76,39,Active
+PROD0298,Camlin Paper Products Model-205,Office Supplies,Paper Products,Camlin,Pcs,30.0,10.3,9.1,0.56,990.9,14,Active
+PROD0299,Stanley Measuring Instruments Model-628,Industrial Tools,Measuring Instruments,Stanley,Set,27.6,35.8,17.2,5.94,9261.06,67,Active
+PROD0300,Dabur Medical Devices Model-626,Health & Wellness,Medical Devices,Dabur,Pcs,9.2,7.8,8.6,1.46,443.16,357,Active
+PROD0301,Hawkins Cookware Model-791,Kitchenware,Cookware,Hawkins,Set,26.8,24.8,22.9,2.17,1331.8,125,Active
+PROD0302,Mitashi Board Games Model-250,Toys & Games,Board Games,Mitashi,Pcs,15.0,28.4,15.3,1.07,3398.5,142,Active
+PROD0303,SG Yoga Accessories Model-321,Sports & Fitness,Yoga Accessories,SG,Set,78.7,24.1,17.0,3.45,5076.51,47,Active
+PROD0304,Nestlé Diapers Model-775,Baby Care,Diapers,Nestlé,Pcs,20.6,31.7,23.8,1.87,1517.43,34,Active
+PROD0305,American Tourister Backpacks Model-635,Luggage & Bags,Backpacks,American Tourister,Set,49.8,30.1,38.0,4.1,5298.51,286,Active
+PROD0306,Asian Paints Electrical Fittings Model-593,Hardware,Electrical Fittings,Asian Paints,Box,27.5,13.1,5.0,9.38,2730.31,36,Active
+PROD0307,Wipro Smartphones Model-539,Electronics,Smartphones,Wipro,Pcs,38.2,17.1,15.8,1.29,68627.24,139,Active
+PROD0308,Whirlpool Microwaves Model-360,Home Appliances,Microwaves,Whirlpool,Set,76.0,75.5,51.7,40.9,36483.19,10,Active
+PROD0309,Dabur Snacks Model-220,FMCG - Food,Snacks,Dabur,Pack,12.5,8.1,24.5,2.07,103.13,299,Active
+PROD0310,Patanjali Grooming Model-678,FMCG - Personal Care,Grooming,Patanjali,Pack,10.7,11.9,16.0,0.24,684.92,21,Active
+PROD0311,Dabur Insecticides Model-359,FMCG - Home Care,Insecticides,Dabur,Box,16.6,16.6,20.0,0.86,782.89,24,Active
+PROD0312,Raymond Women's Wear Model-319,Apparel,Women's Wear,Raymond,Pack,28.0,20.1,5.3,0.88,3268.52,396,Active
+PROD0313,Relaxo Sports Shoes Model-248,Footwear,Sports Shoes,Relaxo,Box,34.3,18.0,10.3,0.71,848.22,99,Active
+PROD0314,Tata Storage Model-771,Furniture,Storage,Tata,Set,118.3,75.8,115.7,37.45,22949.76,22,Active
+PROD0315,Studds Bike Accessories Model-134,Automotive Accessories,Bike Accessories,Studds,Box,30.4,31.0,20.4,4.11,3005.97,20,Active
+PROD0316,JK Paper Desk Organizers Model-461,Office Supplies,Desk Organizers,JK Paper,Set,17.2,9.0,2.2,2.13,1381.19,45,Active
+PROD0317,Taparia Safety Gear Model-935,Industrial Tools,Safety Gear,Taparia,Set,21.3,38.8,16.4,5.03,567.45,42,Active
+PROD0318,Dr. Morepen Supplements Model-401,Health & Wellness,Supplements,Dr. Morepen,Pcs,23.9,17.0,14.6,1.76,2458.13,138,Active
+PROD0319,Cello Small Kitchen Appliances Model-595,Kitchenware,Small Kitchen Appliances,Cello,Pcs,36.5,34.0,19.2,2.41,2996.11,179,Active
+PROD0320,Lego Soft Toys Model-793,Toys & Games,Soft Toys,Lego,Set,16.9,16.3,24.1,1.34,232.09,25,Active
+PROD0321,Puma Team Sports Model-866,Sports & Fitness,Team Sports,Puma,Set,23.0,37.9,16.9,5.43,10758.22,392,Active
+PROD0322,Johnson & Johnson Diapers Model-854,Baby Care,Diapers,Johnson & Johnson,Pack,19.4,17.3,19.6,0.99,2103.86,32,Active
+PROD0323,VIP Backpacks Model-180,Luggage & Bags,Backpacks,VIP,Set,43.4,34.1,54.4,0.57,4358.34,41,Active
+PROD0324,Hindware Fasteners Model-287,Hardware,Fasteners,Hindware,Pack,14.9,16.3,6.9,5.3,1721.54,158,Active
+PROD0325,HP Wearables Model-568,Electronics,Wearables,HP,Pcs,30.9,16.5,14.4,0.14,18861.05,30,Active
+PROD0326,Whirlpool Air Conditioners Model-661,Home Appliances,Air Conditioners,Whirlpool,Set,44.2,53.6,125.8,26.96,33673.13,329,Active
+PROD0327,Haldiram Staples Model-386,FMCG - Food,Staples,Haldiram,Litre,8.6,7.0,18.1,1.18,97.9,80,Active
+PROD0328,Colgate Soaps & Bodywash Model-249,FMCG - Personal Care,Soaps & Bodywash,Colgate,Box,5.6,10.4,12.6,0.52,1194.9,43,Active
+PROD0329,Dabur Dishwashing Model-407,FMCG - Home Care,Dishwashing,Dabur,Box,16.2,13.5,20.0,3.51,91.63,40,Active
+PROD0330,Reliance Men's Wear Model-862,Apparel,Men's Wear,Reliance,Set,25.2,20.4,5.3,1.0,1745.39,32,Active
+PROD0331,Sparx Formal Shoes Model-689,Footwear,Formal Shoes,Sparx,Pair,34.8,17.0,11.6,1.11,4738.57,15,Active
+PROD0332,Pepperfry Office Furniture Model-746,Furniture,Office Furniture,Pepperfry,Pcs,135.5,78.4,114.3,20.72,22012.39,14,Active
+PROD0333,Studds Bike Accessories Model-421,Automotive Accessories,Bike Accessories,Studds,Set,36.1,31.3,20.1,2.49,7124.0,33,Active
+PROD0334,JK Paper Filing Model-271,Office Supplies,Filing,JK Paper,Pack,30.6,7.5,5.1,0.79,1123.5,203,Active
+PROD0335,Bosch Power Tools Model-165,Industrial Tools,Power Tools,Bosch,Set,37.4,8.8,14.9,9.25,1707.14,189,Active
+PROD0336,Patanjali First Aid Model-334,Health & Wellness,First Aid,Patanjali,Box,19.8,11.6,6.3,1.1,594.76,32,Active
+PROD0337,Hawkins Storage Containers Model-578,Kitchenware,Storage Containers,Hawkins,Box,42.7,23.7,12.7,4.75,2765.54,108,Active
+PROD0338,Mitashi Soft Toys Model-755,Toys & Games,Soft Toys,Mitashi,Set,26.0,28.2,14.6,0.65,495.53,36,Active
+PROD0339,SG Yoga Accessories Model-100,Sports & Fitness,Yoga Accessories,SG,Pair,100.6,35.4,13.6,7.14,347.73,146,Active
+PROD0340,Johnson & Johnson Baby Food Model-917,Baby Care,Baby Food,Johnson & Johnson,Box,33.9,33.9,35.2,0.84,2217.19,25,Active
+PROD0341,Skybags Duffle Bags Model-325,Luggage & Bags,Duffle Bags,Skybags,Set,27.4,30.6,53.2,3.68,5405.73,84,Active
+PROD0342,Hindware Fasteners Model-292,Hardware,Fasteners,Hindware,Pcs,9.6,9.3,14.6,6.22,1124.93,74,Active
+PROD0343,Samsung Laptops Model-647,Electronics,Laptops,Samsung,Pcs,15.6,7.6,6.8,2.53,62131.57,188,Discontinued
+PROD0344,Blue Star Washing Machines Model-530,Home Appliances,Washing Machines,Blue Star,Set,77.1,54.9,92.0,46.82,4483.57,19,Active
+PROD0345,Tata Dairy Products Model-656,FMCG - Food,Dairy Products,Tata,Litre,8.6,18.4,9.0,1.94,29.84,25,Active
+PROD0346,Colgate Soaps & Bodywash Model-855,FMCG - Personal Care,Soaps & Bodywash,Colgate,Pcs,6.2,9.9,11.4,0.68,289.71,29,Active
+PROD0347,Patanjali Surface Cleaners Model-845,FMCG - Home Care,Surface Cleaners,Patanjali,Pack,19.9,13.2,13.1,2.51,296.98,13,Active
+PROD0348,Raymond Women's Wear Model-341,Apparel,Women's Wear,Raymond,Pack,28.7,15.2,6.8,0.76,1962.39,398,Discontinued
+PROD0349,Bata Sandals Model-710,Footwear,Sandals,Bata,Pair,28.7,15.6,10.8,0.53,3864.41,344,Active
+PROD0350,Durian Living Room Model-760,Furniture,Living Room,Durian,Pcs,117.1,87.5,50.1,12.77,34386.14,343,Active
+PROD0351,Amaron Electronics Model-297,Automotive Accessories,Electronics,Amaron,Pcs,37.6,20.7,8.4,5.41,3985.36,225,Active
+PROD0352,Reynolds Filing Model-680,Office Supplies,Filing,Reynolds,Pack,21.3,11.5,8.1,2.61,910.06,20,Active
+PROD0353,Havells Hand Tools Model-402,Industrial Tools,Hand Tools,Havells,Set,37.1,22.5,24.4,6.22,11138.04,49,Active
+PROD0354,Patanjali Medical Devices Model-838,Health & Wellness,Medical Devices,Patanjali,Pack,18.2,13.1,8.9,1.1,1542.89,306,Active
+PROD0355,Bajaj Small Kitchen Appliances Model-429,Kitchenware,Small Kitchen Appliances,Bajaj,Pcs,13.4,26.5,10.9,4.7,1016.4,16,Active
+PROD0356,Funskool Board Games Model-684,Toys & Games,Board Games,Funskool,Set,35.1,23.2,15.5,1.78,1044.6,48,Active
+PROD0357,SS Fitness Equipment Model-771,Sports & Fitness,Fitness Equipment,SS,Set,112.5,35.0,16.7,9.66,4490.88,103,Active
+PROD0358,Nestlé Baby Food Model-372,Baby Care,Baby Food,Nestlé,Pcs,11.6,12.1,21.7,3.78,2405.41,24,Active
+PROD0359,American Tourister Travel Suitcases Model-638,Luggage & Bags,Travel Suitcases,American Tourister,Pcs,42.1,38.7,55.1,2.69,6468.87,123,Active
+PROD0360,Pidilite Paints & Finishes Model-781,Hardware,Paints & Finishes,Pidilite,Litre,27.1,7.5,7.7,4.08,1383.18,48,Active
+PROD0361,JBL Audio Model-663,Electronics,Audio,JBL,Set,35.3,15.3,13.4,2.91,28305.19,119,Active
+PROD0362,Voltas Water Purifiers Model-468,Home Appliances,Water Purifiers,Voltas,Set,56.8,49.9,141.7,63.98,39735.18,29,Discontinued
+PROD0363,Britannia Beverages Model-976,FMCG - Food,Beverages,Britannia,Kg,5.4,17.3,21.3,1.42,451.86,46,Active
+PROD0364,Boroplus Skincare Model-464,FMCG - Personal Care,Skincare,Boroplus,Pcs,5.5,6.9,18.7,0.27,982.74,101,Active
+PROD0365,Patanjali Surface Cleaners Model-179,FMCG - Home Care,Surface Cleaners,Patanjali,Box,20.9,7.6,30.6,3.51,535.56,48,Active
+PROD0366,VIP Men's Wear Model-927,Apparel,Men's Wear,VIP,Pack,27.6,26.7,7.5,0.5,3995.13,17,Active
+PROD0367,Bata Formal Shoes Model-768,Footwear,Formal Shoes,Bata,Pair,31.3,19.4,10.3,1.13,2188.17,233,Active
+PROD0368,Nilkamal Bedroom Model-151,Furniture,Bedroom,Nilkamal,Set,146.8,85.2,86.0,6.78,15969.84,68,Active
+PROD0369,3M Car Care Model-685,Automotive Accessories,Car Care,3M,Box,12.0,22.0,7.1,3.11,6235.84,18,Active
+PROD0370,JK Paper Writing Instruments Model-504,Office Supplies,Writing Instruments,JK Paper,Pack,21.8,24.9,8.8,0.76,421.4,137,Active
+PROD0371,Bosch Power Tools Model-787,Industrial Tools,Power Tools,Bosch,Set,31.2,19.1,13.0,7.25,851.0,32,Active
+PROD0372,Dr. Morepen First Aid Model-249,Health & Wellness,First Aid,Dr. Morepen,Set,5.9,17.3,7.0,0.81,2297.43,17,Active
+PROD0373,Cello Dinnerware Model-251,Kitchenware,Dinnerware,Cello,Set,10.5,27.3,12.2,2.36,260.33,44,Active
+PROD0374,Mitashi Action Figures Model-594,Toys & Games,Action Figures,Mitashi,Set,31.9,12.8,19.0,0.14,2123.92,12,Active
+PROD0375,Cosco Fitness Equipment Model-305,Sports & Fitness,Fitness Equipment,Cosco,Pair,79.9,11.6,21.4,0.32,4816.58,33,Active
+PROD0376,MamyPoko Baby Food Model-988,Baby Care,Baby Food,MamyPoko,Pcs,25.5,39.4,33.0,2.87,2269.29,48,Active
+PROD0377,American Tourister Travel Suitcases Model-612,Luggage & Bags,Travel Suitcases,American Tourister,Set,41.8,32.8,31.8,4.18,2939.42,145,Active
+PROD0378,Pidilite Fasteners Model-460,Hardware,Fasteners,Pidilite,Pack,20.6,8.5,19.7,5.06,3256.98,374,Active
+PROD0379,Wipro Smartphones Model-386,Electronics,Smartphones,Wipro,Pcs,14.6,27.4,13.8,0.4,33228.96,128,Active
+PROD0380,Godrej Washing Machines Model-346,Home Appliances,Washing Machines,Godrej,Pcs,55.6,45.6,124.8,31.95,10735.76,124,Active
+PROD0381,ITC Beverages Model-416,FMCG - Food,Beverages,ITC,Box,13.6,18.6,23.6,3.3,460.58,58,Active
+PROD0382,Unilever Skincare Model-425,FMCG - Personal Care,Skincare,Unilever,Pcs,12.0,10.1,23.2,0.44,522.94,50,Active
+PROD0383,Tata Dishwashing Model-897,FMCG - Home Care,Dishwashing,Tata,Litre,7.1,7.8,29.1,3.14,269.5,79,Active
+PROD0384,VIP Women's Wear Model-126,Apparel,Women's Wear,VIP,Set,21.6,26.7,2.8,1.04,2268.81,197,Active
+PROD0385,Campus Sandals Model-240,Footwear,Sandals,Campus,Pair,26.9,15.2,13.8,0.42,1911.21,145,Active
+PROD0386,Nilkamal Bedroom Model-167,Furniture,Bedroom,Nilkamal,Pcs,142.0,99.1,109.4,23.58,12384.0,25,Active
+PROD0387,Philips Car Care Model-852,Automotive Accessories,Car Care,Philips,Set,38.8,21.8,28.5,3.52,4382.04,12,Active
+PROD0388,JK Paper Filing Model-946,Office Supplies,Filing,JK Paper,Box,31.3,9.9,9.0,2.95,87.7,50,Active
+PROD0389,Taparia Hand Tools Model-550,Industrial Tools,Hand Tools,Taparia,Set,54.2,32.8,12.1,2.25,4769.09,43,Active
+PROD0390,Omron First Aid Model-562,Health & Wellness,First Aid,Omron,Pack,19.5,6.7,12.8,1.88,2118.73,36,Active
+PROD0391,Milton Cookware Model-564,Kitchenware,Cookware,Milton,Box,41.4,32.4,27.7,0.63,1721.76,141,Active
+PROD0392,Funskool Board Games Model-216,Toys & Games,Board Games,Funskool,Set,23.5,17.3,15.5,1.02,2810.52,20,Active
+PROD0393,SG Team Sports Model-886,Sports & Fitness,Team Sports,SG,Pcs,110.8,27.0,21.5,2.42,10458.62,141,Active
+PROD0394,MamyPoko Baby Bath Model-847,Baby Care,Baby Bath,MamyPoko,Box,21.6,15.4,54.4,3.85,108.48,10,Active
+PROD0395,Safari Duffle Bags Model-926,Luggage & Bags,Duffle Bags,Safari,Pcs,43.2,27.3,39.8,3.1,4129.91,48,Active
+PROD0396,Anchor Plumbing Model-384,Hardware,Plumbing,Anchor,Box,6.2,7.2,14.8,0.46,3422.63,48,Active
+PROD0397,Samsung Smartphones Model-211,Electronics,Smartphones,Samsung,Set,39.8,9.0,7.1,2.35,59847.16,45,Active
+PROD0398,Blue Star Microwaves Model-136,Home Appliances,Microwaves,Blue Star,Pcs,76.1,46.1,165.7,54.22,49902.62,166,Active
+PROD0399,Tata Beverages Model-811,FMCG - Food,Beverages,Tata,Kg,11.6,11.2,7.9,1.08,65.38,50,Active
+PROD0400,Boroplus Skincare Model-841,FMCG - Personal Care,Skincare,Boroplus,Box,10.7,10.3,20.6,0.46,1024.97,46,Active
+PROD0401,Tata Dishwashing Model-729,FMCG - Home Care,Dishwashing,Tata,Pcs,15.4,14.5,22.3,1.06,564.09,400,Active
+PROD0402,Raymond Men's Wear Model-576,Apparel,Men's Wear,Raymond,Pack,35.9,26.1,3.2,0.8,2041.45,32,Active
+PROD0403,Nike Formal Shoes Model-755,Footwear,Formal Shoes,Nike,Pair,31.9,16.8,10.3,0.82,3479.96,17,Active
+PROD0404,Pepperfry Office Furniture Model-841,Furniture,Office Furniture,Pepperfry,Pcs,131.5,51.6,106.7,41.74,17550.13,12,Active
+PROD0405,Studds Electronics Model-742,Automotive Accessories,Electronics,Studds,Set,45.7,26.1,13.4,4.75,3428.83,116,Active
+PROD0406,Cello Desk Organizers Model-648,Office Supplies,Desk Organizers,Cello,Box,11.2,18.7,12.4,2.67,549.79,27,Active
+PROD0407,Havells Safety Gear Model-741,Industrial Tools,Safety Gear,Havells,Box,52.1,26.3,14.7,7.26,13036.61,140,Active
+PROD0408,Patanjali Supplements Model-523,Health & Wellness,Supplements,Patanjali,Pack,14.9,8.6,9.5,1.91,726.81,64,Active
+PROD0409,Milton Cookware Model-194,Kitchenware,Cookware,Milton,Set,27.7,30.0,28.1,0.94,1799.56,117,Active
+PROD0410,Lego Action Figures Model-887,Toys & Games,Action Figures,Lego,Pcs,34.7,28.8,18.5,0.42,2591.08,332,Active
+PROD0411,SG Fitness Equipment Model-418,Sports & Fitness,Fitness Equipment,SG,Pcs,87.1,27.8,7.2,7.11,792.14,134,Active
+PROD0412,Nestlé Baby Food Model-876,Baby Care,Baby Food,Nestlé,Box,35.6,16.3,16.0,1.22,1377.46,17,Active
+PROD0413,Wildcraft Travel Suitcases Model-217,Luggage & Bags,Travel Suitcases,Wildcraft,Pcs,53.7,29.0,34.6,2.62,4894.93,140,Active
+PROD0414,Havells Plumbing Model-172,Hardware,Plumbing,Havells,Pack,20.3,10.1,11.7,1.39,1909.41,16,Active
+PROD0415,Titan Smartphones Model-501,Electronics,Smartphones,Titan,Pcs,31.1,27.3,13.3,2.45,38561.08,31,Active
+PROD0416,Samsung Water Purifiers Model-873,Home Appliances,Water Purifiers,Samsung,Set,64.1,34.6,152.3,46.92,8578.94,314,Active
+PROD0417,Bikaji Dairy Products Model-337,FMCG - Food,Dairy Products,Bikaji,Box,7.9,18.4,9.2,1.85,163.02,31,Active
+PROD0418,Boroplus Oral Care Model-599,FMCG - Personal Care,Oral Care,Boroplus,Pcs,4.7,4.9,17.2,0.85,374.6,46,Active
+PROD0419,Dabur Detergents Model-937,FMCG - Home Care,Detergents,Dabur,Pack,11.5,14.7,29.8,2.76,384.7,129,Active
+PROD0420,Reliance Women's Wear Model-493,Apparel,Women's Wear,Reliance,Pcs,26.8,27.2,5.5,0.97,2128.49,44,Active
+PROD0421,Bata Formal Shoes Model-785,Footwear,Formal Shoes,Bata,Pair,32.4,20.0,14.2,0.56,3738.02,62,Active
+PROD0422,Durian Bedroom Model-515,Furniture,Bedroom,Durian,Pcs,105.8,81.1,87.7,37.43,12468.18,13,Active
+PROD0423,Philips Helmets Model-873,Automotive Accessories,Helmets,Philips,Box,42.4,32.7,21.5,2.83,2473.73,264,Active
+PROD0424,Camlin Desk Organizers Model-683,Office Supplies,Desk Organizers,Camlin,Pcs,32.6,23.7,11.3,2.75,1485.73,306,Active
+PROD0425,Stanley Measuring Instruments Model-972,Industrial Tools,Measuring Instruments,Stanley,Set,13.1,36.8,29.2,0.31,8620.44,17,Active
+PROD0426,Himalaya Supplements Model-542,Health & Wellness,Supplements,Himalaya,Set,17.5,15.7,9.1,0.93,712.53,185,Active
+PROD0427,Borosil Small Kitchen Appliances Model-960,Kitchenware,Small Kitchen Appliances,Borosil,Set,15.4,34.9,23.4,0.84,497.97,41,Active
+PROD0428,Funskool Educational Toys Model-240,Toys & Games,Educational Toys,Funskool,Set,34.2,27.2,22.9,1.77,3270.03,108,Active
+PROD0429,Decathlon Team Sports Model-463,Sports & Fitness,Team Sports,Decathlon,Pcs,34.5,28.1,19.4,12.73,3031.81,36,Active
+PROD0430,Himalaya Baby Bath Model-138,Baby Care,Baby Bath,Himalaya,Pcs,29.3,21.1,36.9,3.85,292.15,43,Active
+PROD0431,Skybags Handbags Model-629,Luggage & Bags,Handbags,Skybags,Pcs,40.7,30.3,41.0,2.99,5809.9,50,Active
+PROD0432,Anchor Fasteners Model-154,Hardware,Fasteners,Anchor,Pack,18.4,5.2,11.8,9.07,2317.16,95,Active
+PROD0433,Logitech Audio Model-271,Electronics,Audio,Logitech,Pcs,30.9,19.9,7.5,2.77,23025.13,47,Active
+PROD0434,Voltas Refrigerators Model-928,Home Appliances,Refrigerators,Voltas,Pcs,47.2,34.1,110.8,56.09,19865.55,221,Active
+PROD0435,Amul Staples Model-859,FMCG - Food,Staples,Amul,Pack,17.1,18.7,22.7,3.31,308.42,150,Active
+PROD0436,Unilever Soaps & Bodywash Model-918,FMCG - Personal Care,Soaps & Bodywash,Unilever,Box,13.5,6.7,11.3,0.19,1124.03,276,Active
+PROD0437,Dabur Air Fresheners Model-343,FMCG - Home Care,Air Fresheners,Dabur,Pcs,19.5,7.5,24.4,4.24,86.72,17,Active
+PROD0438,Reliance Ethnic Wear Model-587,Apparel,Ethnic Wear,Reliance,Set,29.5,29.2,7.5,0.4,3170.74,83,Active
+PROD0439,Nike Sandals Model-395,Footwear,Sandals,Nike,Box,28.8,17.2,12.7,1.74,945.24,32,Active
+PROD0440,Tata Storage Model-767,Furniture,Storage,Tata,Set,76.8,56.0,47.9,30.48,14603.65,341,Active
+PROD0441,Philips Helmets Model-445,Automotive Accessories,Helmets,Philips,Box,37.6,15.4,18.7,4.1,6687.18,16,Active
+PROD0442,Camlin Filing Model-324,Office Supplies,Filing,Camlin,Pcs,12.6,5.7,10.1,0.22,903.38,77,Active
+PROD0443,Bosch Power Tools Model-188,Industrial Tools,Power Tools,Bosch,Box,16.5,29.0,27.5,6.92,14523.9,21,Active
+PROD0444,Omron First Aid Model-177,Health & Wellness,First Aid,Omron,Set,23.5,9.1,9.3,1.82,2332.65,70,Active
+PROD0445,Prestige Storage Containers Model-491,Kitchenware,Storage Containers,Prestige,Set,21.6,11.5,29.1,1.47,2286.79,22,Active
+PROD0446,Hasbro Educational Toys Model-211,Toys & Games,Educational Toys,Hasbro,Pcs,26.2,18.6,17.3,0.35,1657.22,54,Active
+PROD0447,Decathlon Yoga Accessories Model-119,Sports & Fitness,Yoga Accessories,Decathlon,Set,30.6,29.2,28.3,10.04,3380.63,381,Active
+PROD0448,Nestlé Baby Food Model-824,Baby Care,Baby Food,Nestlé,Box,29.1,22.1,45.0,3.27,268.24,99,Active
+PROD0449,VIP Duffle Bags Model-680,Luggage & Bags,Duffle Bags,VIP,Set,35.0,22.6,32.5,4.49,5676.6,31,Active
+PROD0450,Finolex Paints & Finishes Model-763,Hardware,Paints & Finishes,Finolex,Box,9.4,5.6,10.8,1.99,2798.74,50,Active
+PROD0451,Sony Wearables Model-747,Electronics,Wearables,Sony,Set,32.1,8.5,5.5,2.55,50888.83,58,Active
+PROD0452,Bajaj Air Conditioners Model-646,Home Appliances,Air Conditioners,Bajaj,Set,88.0,30.8,87.5,25.26,47563.25,23,Active
+PROD0453,Bikaji Confectionery Model-794,FMCG - Food,Confectionery,Bikaji,Box,19.8,8.5,4.0,3.69,401.34,129,Discontinued
+PROD0454,Dabur Haircare Model-276,FMCG - Personal Care,Haircare,Dabur,Box,4.5,6.5,21.9,0.48,246.29,359,Active
+PROD0455,Dabur Detergents Model-709,FMCG - Home Care,Detergents,Dabur,Litre,6.3,8.0,18.4,4.21,674.62,17,Active
+PROD0456,Titan Innerwear Model-240,Apparel,Innerwear,Titan,Set,36.7,26.9,6.6,0.77,1709.12,68,Active
+PROD0457,Bata Formal Shoes Model-478,Footwear,Formal Shoes,Bata,Pair,29.4,21.5,10.2,0.54,5145.25,20,Discontinued
+PROD0458,Godrej Interio Storage Model-106,Furniture,Storage,Godrej Interio,Pcs,59.7,45.3,92.1,40.25,15443.45,40,Active
+PROD0459,Studds Helmets Model-755,Automotive Accessories,Helmets,Studds,Set,30.9,22.4,28.5,3.74,493.45,277,Active
+PROD0460,Camlin Paper Products Model-456,Office Supplies,Paper Products,Camlin,Set,5.1,9.7,3.5,1.61,170.66,44,Active
+PROD0461,Stanley Measuring Instruments Model-383,Industrial Tools,Measuring Instruments,Stanley,Pcs,19.7,33.5,22.1,11.63,7378.99,12,Active
+PROD0462,Patanjali Personal Hygiene Model-314,Health & Wellness,Personal Hygiene,Patanjali,Set,10.0,14.3,13.9,0.96,402.82,287,Active
+PROD0463,Hawkins Cookware Model-627,Kitchenware,Cookware,Hawkins,Pcs,12.5,15.9,18.9,2.98,2182.47,30,Active
+PROD0464,Mattel Board Games Model-333,Toys & Games,Board Games,Mattel,Pcs,17.1,18.3,9.0,2.24,442.65,13,Active
+PROD0465,SS Cricket Gear Model-724,Sports & Fitness,Cricket Gear,SS,Set,33.7,21.2,16.4,3.07,4463.43,92,Active
+PROD0466,MamyPoko Baby Food Model-239,Baby Care,Baby Food,MamyPoko,Pack,44.1,23.8,14.4,1.44,2227.38,50,Active
+PROD0467,Safari Travel Suitcases Model-666,Luggage & Bags,Travel Suitcases,Safari,Pcs,27.6,36.4,52.0,4.48,5232.65,85,Discontinued
+PROD0468,Pidilite Paints & Finishes Model-993,Hardware,Paints & Finishes,Pidilite,Box,11.2,11.5,8.3,9.28,3787.7,50,Active
+PROD0469,Samsung Smartphones Model-581,Electronics,Smartphones,Samsung,Box,33.1,5.8,11.6,1.73,68073.87,107,Active
+PROD0470,Crompton Refrigerators Model-871,Home Appliances,Refrigerators,Crompton,Pcs,71.6,50.3,70.5,26.5,17441.4,11,Active
+PROD0471,ITC Staples Model-820,FMCG - Food,Staples,ITC,Litre,22.2,16.2,2.7,2.3,622.03,35,Active
+PROD0472,Boroplus Oral Care Model-820,FMCG - Personal Care,Oral Care,Boroplus,Box,4.0,9.0,15.8,0.71,660.56,27,Active
+PROD0473,Unilever Insecticides Model-689,FMCG - Home Care,Insecticides,Unilever,Litre,20.8,6.2,32.0,3.73,87.14,33,Active
+PROD0474,Reliance Men's Wear Model-474,Apparel,Men's Wear,Reliance,Set,32.4,20.5,3.1,0.74,581.42,76,Active
+PROD0475,Adidas Casual Shoes Model-652,Footwear,Casual Shoes,Adidas,Pair,31.5,20.2,13.8,1.62,4335.92,24,Active
+PROD0476,Tata Office Furniture Model-796,Furniture,Office Furniture,Tata,Set,70.5,43.8,67.6,23.42,19143.87,331,Active
+PROD0477,3M Bike Accessories Model-735,Automotive Accessories,Bike Accessories,3M,Set,42.0,38.4,25.2,5.66,711.9,39,Active
+PROD0478,Reynolds Filing Model-395,Office Supplies,Filing,Reynolds,Box,8.3,10.5,11.1,1.51,1316.24,50,Discontinued
+PROD0479,Schneider Electric Measuring Instruments Model-235,Industrial Tools,Measuring Instruments,Schneider Electric,Set,27.3,22.2,21.1,3.71,1412.77,79,Active
+PROD0480,Zydus Personal Hygiene Model-692,Health & Wellness,Personal Hygiene,Zydus,Pcs,18.1,16.8,9.9,1.37,1637.48,108,Active
+PROD0481,Borosil Dinnerware Model-275,Kitchenware,Dinnerware,Borosil,Set,17.9,19.3,15.8,4.26,869.44,394,Active
+PROD0482,Mitashi Educational Toys Model-392,Toys & Games,Educational Toys,Mitashi,Pcs,39.2,26.8,18.9,1.7,706.5,160,Active
+PROD0483,Decathlon Cricket Gear Model-366,Sports & Fitness,Cricket Gear,Decathlon,Set,34.4,26.9,5.9,4.89,4290.2,288,Active
+PROD0484,Himalaya Baby Bath Model-125,Baby Care,Baby Bath,Himalaya,Box,47.2,33.1,57.1,3.72,474.53,119,Active
+PROD0485,Wildcraft Handbags Model-585,Luggage & Bags,Handbags,Wildcraft,Set,54.1,33.9,74.7,3.13,6896.61,38,Active
+PROD0486,Pidilite Electrical Fittings Model-590,Hardware,Electrical Fittings,Pidilite,Pcs,8.5,13.3,9.6,4.08,3371.46,173,Active
+PROD0487,Dell Accessories Model-697,Electronics,Accessories,Dell,Box,16.7,28.4,7.0,0.18,46318.95,15,Active
+PROD0488,Bosch Microwaves Model-602,Home Appliances,Microwaves,Bosch,Set,66.2,55.6,47.8,45.01,27347.37,37,Active
+PROD0489,Amul Staples Model-391,FMCG - Food,Staples,Amul,Kg,12.0,19.7,26.5,0.48,587.73,36,Active
+PROD0490,Unilever Oral Care Model-925,FMCG - Personal Care,Oral Care,Unilever,Box,14.7,7.4,23.4,0.18,725.26,23,Active
+PROD0491,Reliance Insecticides Model-167,FMCG - Home Care,Insecticides,Reliance,Pcs,6.8,11.1,32.9,2.19,518.0,343,Active
+PROD0492,Allen Solly Women's Wear Model-952,Apparel,Women's Wear,Allen Solly,Set,25.8,22.4,6.9,0.47,2757.87,39,Active
+PROD0493,Adidas Sports Shoes Model-368,Footwear,Sports Shoes,Adidas,Box,34.6,20.8,12.4,1.32,5399.04,275,Active
+PROD0494,Godrej Interio Bedroom Model-222,Furniture,Bedroom,Godrej Interio,Set,94.2,98.2,87.9,18.19,17596.28,83,Active
+PROD0495,Amaron Electronics Model-937,Automotive Accessories,Electronics,Amaron,Pcs,24.9,32.0,5.4,1.71,4736.91,109,Active
+PROD0496,Camlin Writing Instruments Model-267,Office Supplies,Writing Instruments,Camlin,Box,13.2,13.4,13.9,1.1,456.09,59,Active
+PROD0497,Bosch Hand Tools Model-713,Industrial Tools,Hand Tools,Bosch,Pcs,37.2,35.9,25.7,8.31,4865.55,33,Active
+PROD0498,Himalaya Personal Hygiene Model-113,Health & Wellness,Personal Hygiene,Himalaya,Box,15.4,10.6,9.8,0.75,2741.29,189,Active
+PROD0499,Cello Dinnerware Model-728,Kitchenware,Dinnerware,Cello,Box,39.1,23.1,20.6,2.85,3818.09,267,Active
+PROD0500,Lego Board Games Model-117,Toys & Games,Board Games,Lego,Box,20.4,23.8,7.8,1.16,3459.02,31,Active

@@ -1,0 +1,121 @@
+Supplier_ID,Supplier_Name,Supplier_State,Contact_Person,Email,Phone,Supplier_Rating,Registration_Date
+SUP0001,Apex Trading Co,West Bengal,Manoj Nair,manoj.nair@gmail.com,+91 8895490481,3.0,2020-10-03
+SUP0002,Mahaveer Industrial Traders,Haryana,Alok Gupta,alok.gupta@yahoo.co.in,+91 6277929117,4.0,2020-01-15
+SUP0003,Mahaveer Distribution Ltd,Madhya Pradesh,Pooja Banerjee,pooja.banerjee@outlook.com,+91 9284864040,4.0,2022-01-01
+SUP0004,National Commercial Corp,Uttar Pradesh,Meena Bhatnagar,meena.bhatnagar@supplier.co.in,+91 8196508611,4.0,2019-07-26
+SUP0005,Patel Industrial Traders,Maharashtra,,sunil.patel@gmail.com,+91 8139473127,3.0,2021-10-20
+SUP0006,Trident Supply Chain Solutions,Kerala,Priya Chatterjee,priya.chatterjee@supplier.co.in,+91 9404755494,3.0,2020-08-12
+SUP0007,Matrix Wholesalers,Rajasthan,Rajesh Patel,rajesh.patel@supplier.co.in,+91 9780110968,4.0,2018-09-01
+SUP0008,Vanguard Industrial Traders,Rajasthan,Suresh Nair,suresh.nair@supplier.co.in,+91 7849761315,4.0,2018-10-03
+SUP0009,Global Wholesalers,West Bengal,Siddharth Banerjee,,+91 8414868603,3.0,2022-10-16
+SUP0010,National Commercial Corp,Kerala,,suresh.mehta@gmail.com,+91 6120890371,4.0,2021-04-24
+SUP0011,Shree Ram Commercial Corp,Haryana,Sunil Deshmukh,sunil.deshmukh@outlook.com,+91 7534875624,3.0,2020-04-23
+SUP0012,Apex Supply Chain Solutions,Madhya Pradesh,Suresh Gupta,,+91 6729196312,3.0,2018-02-10
+SUP0013,Standard Marketing Corp,Maharashtra,Rohan Sharma,rohan.sharma@outlook.com,+91 7622370616,4.0,2021-03-14
+SUP0014,Sunrise Commercial Corp,Uttar Pradesh,Gaurav Mehta,gaurav.mehta@yahoo.co.in,+91 8640665603,4.0,2019-09-06
+SUP0015,Apex Wholesalers,Tamil Nadu,Suresh Joshi,suresh.joshi@gmail.com,+91 7276980803,3.0,2021-03-20
+SUP0016,Mahaveer Commercial Corp,Telangana,Priya Chatterjee,priya.chatterjee@supplier.co.in,+91 7834405845,2.0,2019-03-06
+SUP0017,Trident Supplies,West Bengal,Siddharth Mehta,siddharth.mehta@yahoo.co.in,+91 7779466167,3.0,2020-04-03
+SUP0018,Shree Ram Wholesalers,Madhya Pradesh,Sanjay Banerjee,sanjay.banerjee@yahoo.co.in,+91 8838141056,3.0,2022-08-15
+SUP0019,Standard Enterprises,Rajasthan,Anil Agarwal,anil.agarwal@supplier.co.in,+91 6634554320,5.0,2019-05-08
+SUP0020,Matrix Supply Chain Solutions,West Bengal,Anil Deshmukh,anil.deshmukh@outlook.com,+91 9537810557,3.0,2019-08-11
+SUP0021,Mahaveer Industrial Traders,Tamil Nadu,Rajesh Rao,rajesh.rao@outlook.com,+91 7993550742,,2020-09-21
+SUP0022,Kothari Marketing Corp,Karnataka,Rajesh Joshi,rajesh.joshi@outlook.com,+91 8828969183,3.0,2021-02-01
+SUP0023,Shree Ram Enterprises,Madhya Pradesh,Priya Mehta,priya.mehta@outlook.com,+91 9724474441,3.0,2018-05-11
+SUP0024,Apex Supplies,Madhya Pradesh,Vikram Rao,vikram.rao@gmail.com,+91 8452311986,1.0,2022-02-13
+SUP0025,Venkateshwara Trading Co,Andhra Pradesh,Priya Rao,priya.rao@gmail.com,+91 9320829552,3.0,2022-07-11
+SUP0026,Patel Supplies,Tamil Nadu,Vikram Gupta,vikram.gupta@yahoo.co.in,+91 6919589589,4.0,2019-07-17
+SUP0027,Zenith Supply Chain Solutions,Delhi,Siddharth Deshmukh,siddharth.deshmukh@supplier.co.in,+91 8932339303,2.0,2019-05-20
+SUP0028,Zenith Marketing Corp,Maharashtra,Meena Patel,meena.patel@gmail.com,+91 8966458557,4.0,2022-06-04
+SUP0029,Zenith Supply Chain Solutions,Rajasthan,Deepak Kulkarni,deepak.kulkarni@supplier.co.in,+91 6033784640,4.0,2020-03-15
+SUP0030,Patel Marketing Corp,Tamil Nadu,Sanjay Kulkarni,sanjay.kulkarni@outlook.com,,3.0,2022-07-22
+SUP0031,Global Trading Co,Odisha,Pooja Mehta,pooja.mehta@supplier.co.in,+91 9765660784,4.0,2022-08-07
+SUP0032,Standard Wholesalers,Odisha,Vijay Kulkarni,vijay.kulkarni@gmail.com,+91 9272659618,3.0,2018-04-17
+SUP0033,Shree Ram Supplies,Tamil Nadu,Suresh Mehta,suresh.mehta@gmail.com,+91 6476003514,3.0,2018-11-20
+SUP0034,Bharat Supplies,Kerala,Vijay Kulkarni,vijay.kulkarni@supplier.co.in,+91 9751679013,4.0,2022-02-14
+SUP0035,Trident Distribution Ltd,Gujarat,Pooja Agarwal,pooja.agarwal@yahoo.co.in,+91 7690044623,,2022-11-30
+SUP0036,Shree Ram Wholesalers,West Bengal,Meena Rao,meena.rao@gmail.com,,4.0,2019-02-11
+SUP0037,Venkateshwara Industrial Traders,Gujarat,Manoj Nair,manoj.nair@gmail.com,+91 6060623056,2.0,2022-01-11
+SUP0038,Global Supply Chain Solutions,Tamil Nadu,Anil Reddy,anil.reddy@outlook.com,+91 7236787255,4.0,2022-03-09
+SUP0039,Trident Distribution Ltd,Haryana,Sanjay Deshmukh,sanjay.deshmukh@yahoo.co.in,+91 6123579604,1.0,2019-08-18
+SUP0040,Royal Supply Chain Solutions,Maharashtra,Rohan Singh,rohan.singh@outlook.com,+91 8976513517,3.0,2020-03-25
+SUP0041,Venkateshwara Supply Chain Solutions,Gujarat,Siddharth Patel,siddharth.patel@gmail.com,+91 7429633718,4.0,2019-04-26
+SUP0042,Vanguard Enterprises,Telangana,Gaurav Bhatnagar,gaurav.bhatnagar@outlook.com,+91 7695209898,3.0,2021-10-06
+SUP0043,Venkateshwara Industrial Traders,Rajasthan,Rohan Mehta,rohan.mehta@supplier.co.in,+91 6566590088,4.0,2018-07-03
+SUP0044,Vanguard Industrial Traders,Uttar Pradesh,Ramesh Agarwal,ramesh.agarwal@supplier.co.in,+91 7215155799,4.0,2022-12-01
+SUP0045,Standard Industrial Traders,Delhi,Rohan Singh,rohan.singh@supplier.co.in,,4.0,2019-01-22
+SUP0046,Royal Supplies,Gujarat,Rohan Patel,rohan.patel@supplier.co.in,+91 7531242221,4.0,2021-12-23
+SUP0047,Bharat Supply Chain Solutions,Delhi,Priya Reddy,priya.reddy@outlook.com,+91 6775907148,1.0,2022-09-06
+SUP0048,Sunrise Enterprises,Rajasthan,Neha Nair,neha.nair@supplier.co.in,+91 9953144588,4.0,2018-06-07
+SUP0049,Trident Supply Chain Solutions,Haryana,Manoj Gupta,manoj.gupta@outlook.com,+91 6660460633,4.0,2018-03-01
+SUP0050,Venkateshwara Enterprises,Delhi,Amit Kulkarni,amit.kulkarni@outlook.com,+91 9141962771,2.0,2022-02-12
+SUP0051,Trident Commercial Corp,Kerala,Amit Verma,amit.verma@supplier.co.in,+91 6397503555,3.0,2020-03-27
+SUP0052,Shree Ram Distribution Ltd,Karnataka,Alok Bhatnagar,alok.bhatnagar@outlook.com,+91 8779565402,3.0,2022-03-22
+SUP0053,Trident Industrial Traders,Delhi,Sunil Agarwal,sunil.agarwal@yahoo.co.in,+91 8102914921,3.0,2020-07-01
+SUP0054,Standard Commercial Corp,Punjab,Sanjay Deshmukh,sanjay.deshmukh@supplier.co.in,+91 6399206328,3.0,2018-03-24
+SUP0055,Bharat Trading Co,Rajasthan,Gaurav Verma,gaurav.verma@outlook.com,+91 8010986027,4.0,2020-06-14
+SUP0056,Trident Distribution Ltd,Rajasthan,Pooja Chawla,pooja.chawla@gmail.com,+91 8366502646,5.0,2018-06-06
+SUP0057,Royal Marketing Corp,Delhi,Ramesh Verma,ramesh.verma@gmail.com,+91 6489349186,4.0,2022-02-25
+SUP0058,Apex Supplies,Andhra Pradesh,Suresh Mehta,suresh.mehta@supplier.co.in,+91 9252811795,4.0,2021-10-04
+SUP0059,Kothari Distribution Ltd,Karnataka,,priya.joshi@gmail.com,,4.0,2020-12-30
+SUP0060,Royal Supplies,Madhya Pradesh,Meena Banerjee,meena.banerjee@outlook.com,+91 8656434573,5.0,2022-07-24
+SUP0061,National Marketing Corp,Gujarat,Vikram Singh,vikram.singh@gmail.com,+91 6819488717,,2018-08-18
+SUP0062,Global Industrial Traders,West Bengal,Deepak Deshmukh,deepak.deshmukh@yahoo.co.in,+91 6369768979,4.0,2019-09-09
+SUP0063,Bharat Trading Co,Uttar Pradesh,Rohan Sharma,rohan.sharma@supplier.co.in,+91 8513527684,3.0,2019-05-12
+SUP0064,Shree Ram Supply Chain Solutions,West Bengal,Pooja Deshmukh,pooja.deshmukh@supplier.co.in,+91 9165727232,4.0,2021-03-31
+SUP0065,Global Wholesalers,Punjab,Meena Banerjee,meena.banerjee@yahoo.co.in,+91 9067853612,4.0,2018-05-05
+SUP0066,Standard Trading Co,Gujarat,,rohan.agarwal@supplier.co.in,+91 8995801715,4.0,2020-06-12
+SUP0067,Patel Wholesalers,Tamil Nadu,Neha Mehta,neha.mehta@supplier.co.in,+91 6563321747,4.0,2019-08-24
+SUP0068,Zenith Trading Co,Kerala,Sanjay Reddy,sanjay.reddy@outlook.com,+91 8966523377,3.0,2022-03-15
+SUP0069,Global Supply Chain Solutions,Kerala,Pooja Banerjee,pooja.banerjee@outlook.com,+91 7008110018,4.0,2019-03-05
+SUP0070,Kothari Industrial Traders,Madhya Pradesh,Gaurav Patel,gaurav.patel@gmail.com,+91 7450559731,2.0,2020-05-31
+SUP0071,Matrix Commercial Corp,Kerala,Amit Mishra,amit.mishra@outlook.com,+91 9849655205,5.0,2018-11-06
+SUP0072,Vanguard Trading Co,Kerala,Ananya Gupta,ananya.gupta@gmail.com,+91 9357171471,1.0,2021-06-04
+SUP0073,Mahaveer Industrial Traders,West Bengal,Sunil Reddy,sunil.reddy@outlook.com,+91 6674449642,4.0,2022-01-31
+SUP0074,Mahaveer Industrial Traders,West Bengal,Manoj Mehta,manoj.mehta@yahoo.co.in,+91 6528209967,,2022-10-04
+SUP0075,Global Commercial Corp,Telangana,Gaurav Nair,gaurav.nair@gmail.com,+91 7142528438,3.0,2020-02-02
+SUP0076,Standard Distribution Ltd,Karnataka,Pooja Deshmukh,pooja.deshmukh@supplier.co.in,+91 9857160925,3.0,2020-07-28
+SUP0077,Royal Industrial Traders,Kerala,Rajesh Chatterjee,rajesh.chatterjee@gmail.com,+91 6364119662,2.0,2019-11-24
+SUP0078,Vanguard Industrial Traders,Andhra Pradesh,Neha Patel,neha.patel@outlook.com,+91 7800902537,3.0,2020-04-03
+SUP0079,Matrix Commercial Corp,Maharashtra,Ramesh Chatterjee,ramesh.chatterjee@yahoo.co.in,+91 9007744409,3.0,2020-04-07
+SUP0080,Royal Commercial Corp,Andhra Pradesh,Alok Reddy,alok.reddy@outlook.com,+91 6361983810,5.0,2018-03-17
+SUP0081,Trident Distribution Ltd,Gujarat,Gaurav Mishra,gaurav.mishra@outlook.com,,5.0,2019-11-29
+SUP0082,Venkateshwara Distribution Ltd,Madhya Pradesh,Suresh Deshmukh,suresh.deshmukh@gmail.com,+91 9143856669,1.0,2018-05-03
+SUP0083,Mahaveer Trading Co,Telangana,Neha Sharma,neha.sharma@supplier.co.in,+91 7455909264,5.0,2019-04-29
+SUP0084,Patel Commercial Corp,Telangana,Suresh Singh,suresh.singh@supplier.co.in,+91 8231951249,3.0,2022-02-19
+SUP0085,Zenith Trading Co,Gujarat,Vikram Deshmukh,vikram.deshmukh@supplier.co.in,+91 6351960400,4.0,2018-07-08
+SUP0086,Zenith Wholesalers,Haryana,Neha Mishra,neha.mishra@supplier.co.in,+91 9745275018,1.0,2019-06-25
+SUP0087,Global Supplies,Madhya Pradesh,Sanjay Singh,sanjay.singh@yahoo.co.in,+91 8082047253,4.0,2021-12-27
+SUP0088,Sunrise Trading Co,Uttar Pradesh,Amit Nair,amit.nair@outlook.com,+91 9958659997,5.0,2018-09-01
+SUP0089,Vanguard Wholesalers,Karnataka,Sunil Agarwal,,+91 7608292420,3.0,2019-09-14
+SUP0090,Standard Enterprises,Andhra Pradesh,Suresh Chawla,,+91 6786310279,4.0,2022-08-05
+SUP0091,Vanguard Supplies,Uttar Pradesh,Neha Chawla,neha.chawla@supplier.co.in,+91 9866704459,3.0,2019-11-23
+SUP0092,Bharat Wholesalers,West Bengal,Ananya Kulkarni,ananya.kulkarni@supplier.co.in,+91 6639875354,5.0,2022-11-10
+SUP0093,National Distribution Ltd,Andhra Pradesh,Alok Mehta,alok.mehta@gmail.com,+91 8879534353,5.0,2020-06-26
+SUP0094,Trident Wholesalers,West Bengal,Sunil Mishra,sunil.mishra@gmail.com,+91 6826466503,4.0,2021-06-21
+SUP0095,Global Wholesalers,Andhra Pradesh,Rajesh Gupta,rajesh.gupta@yahoo.co.in,+91 6081490931,5.0,2019-07-18
+SUP0096,Royal Supply Chain Solutions,Kerala,Siddharth Mehta,siddharth.mehta@supplier.co.in,+91 8529276291,4.0,2018-04-03
+SUP0097,Shree Ram Wholesalers,Delhi,Alok Joshi,alok.joshi@gmail.com,+91 6492394892,4.0,2018-07-23
+SUP0098,Bharat Marketing Corp,Haryana,Sanjay Patel,sanjay.patel@outlook.com,+91 6779355497,5.0,2018-02-25
+SUP0099,Matrix Marketing Corp,Haryana,Sunil Patel,sunil.patel@yahoo.co.in,+91 7029172775,5.0,2022-03-21
+SUP0100,Mahaveer Marketing Corp,Maharashtra,,vijay.kulkarni@supplier.co.in,+91 6281140892,,2020-09-18
+SUP0101,Mahaveer Distribution Ltd,Kerala,Siddharth Singh,siddharth.singh@outlook.com,+91 8440596445,3.0,2020-04-13
+SUP0102,Bharat Commercial Corp,Rajasthan,Sanjay Rao,,+91 9914831482,2.0,2021-02-10
+SUP0103,Trident Industrial Traders,Maharashtra,Amit Banerjee,amit.banerjee@outlook.com,+91 8567822451,4.0,2019-05-29
+SUP0104,Trident Enterprises,Karnataka,Siddharth Verma,siddharth.verma@outlook.com,+91 6385323436,5.0,2020-03-20
+SUP0105,Standard Distribution Ltd,Punjab,Gaurav Mehta,gaurav.mehta@outlook.com,+91 8728033887,2.0,2019-06-20
+SUP0106,Matrix Commercial Corp,Tamil Nadu,Ananya Mehta,ananya.mehta@gmail.com,+91 9925678450,,2021-11-17
+SUP0107,Shree Ram Industrial Traders,Haryana,Siddharth Banerjee,siddharth.banerjee@supplier.co.in,+91 8311256997,,2018-06-16
+SUP0108,Royal Supply Chain Solutions,Delhi,Alok Agarwal,alok.agarwal@supplier.co.in,,4.0,2022-09-15
+SUP0109,Sunrise Trading Co,Maharashtra,Deepak Sharma,deepak.sharma@outlook.com,+91 8922958662,4.0,2021-12-23
+SUP0110,Patel Distribution Ltd,Uttar Pradesh,Manoj Patel,manoj.patel@outlook.com,+91 8116722547,2.0,2021-12-12
+SUP0111,National Supply Chain Solutions,Madhya Pradesh,Ramesh Chatterjee,ramesh.chatterjee@supplier.co.in,+91 6732193544,4.0,2021-02-04
+SUP0112,Kothari Supply Chain Solutions,Punjab,Vikram Verma,vikram.verma@yahoo.co.in,+91 7115078625,3.0,2021-03-13
+SUP0113,Shree Ram Wholesalers,Punjab,Ramesh Mishra,ramesh.mishra@supplier.co.in,,2.0,2020-05-24
+SUP0114,Standard Supplies,Telangana,Sunil Chatterjee,,+91 8128477207,,2020-01-11
+SUP0115,Standard Wholesalers,Uttar Pradesh,Vijay Sharma,vijay.sharma@supplier.co.in,,4.0,2019-11-17
+SUP0116,Standard Supply Chain Solutions,Andhra Pradesh,Deepak Reddy,deepak.reddy@yahoo.co.in,,5.0,2019-09-29
+SUP0117,Shree Ram Commercial Corp,Madhya Pradesh,Ramesh Rao,ramesh.rao@gmail.com,+91 8033995711,2.0,2019-05-04
+SUP0118,Patel Supply Chain Solutions,Kerala,Meena Kulkarni,meena.kulkarni@gmail.com,+91 8685852468,,2020-07-03
+SUP0119,Matrix Supply Chain Solutions,Kerala,Vikram Patel,vikram.patel@supplier.co.in,+91 6235316246,5.0,2019-09-10
+SUP0120,Vanguard Marketing Corp,Madhya Pradesh,Alok Bhatnagar,alok.bhatnagar@gmail.com,+91 8651291805,4.0,2022-03-21

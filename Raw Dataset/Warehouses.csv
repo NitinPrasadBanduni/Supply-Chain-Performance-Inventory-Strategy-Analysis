@@ -1,0 +1,51 @@
+Warehouse_ID,Warehouse_Name,State,Capacity_Volume_m3,Capacity_Weight_kg,Contact_Number
+WH001,Bhiwandi Central Hub,Maharashtra,25000,675000,+91 3451768489
+WH002,Panvel Logistics Park,Maharashtra,15000,390000,+91 8259204912
+WH003,Pune Supply Node,Maharashtra,25000,700000,+91 6652131311
+WH004,Nagpur Express Depot,Maharashtra,25000,650000,+91 7878883020
+WH005,Ahmedabad Logistics Park,Gujarat,35000,805000,+91 4920664172
+WH006,Surat Distribution Hub,Gujarat,50000,1200000,+91 3237507466
+WH007,Vadodara Goods Depot,Gujarat,15000,390000,+91 3637197656
+WH008,Bengaluru Tech Depot,Karnataka,35000,770000,+91 3576546913
+WH009,Nelamangala Logistics Hub,Karnataka,75000,1575000,+91 2168502555
+WH010,Hosur Road Warehouse,Karnataka,15000,345000,+91 5387000043
+WH011,Sriperumbudur Regional WH,Tamil Nadu,15000,315000,+91 8333017721
+WH012,Madhavaram Distribution Hub,Tamil Nadu,25000,575000,+91 9702036367
+WH013,Coimbatore Depot,Tamil Nadu,25000,525000,+91 5454065716
+WH014,Hyderabad FMCG Centre,Telangana,15000,375000,+91 6281162701
+WH015,Patancheru Logistics Park,Telangana,25000,550000,+91 4474115502
+WH016,NCR Kundli Hub,Haryana,35000,875000,+91 9592224104
+WH017,Gurugram Expressway Depot,Haryana,50000,1500000,+91 6576360727
+WH018,Faridabad Industrial WH,Haryana,25000,750000,+91 1726702215
+WH019,Noida Logistics Node,Uttar Pradesh,50000,1250000,+91 6437650091
+WH020,Lucknow Central Depot,Uttar Pradesh,50000,1200000,+91 2978836965
+WH021,Ghaziabad Storage Hub,Uttar Pradesh,35000,700000,+91 7255948235
+WH022,Zirakpur Goods Facility,Punjab,25000,500000,+91 4680671460
+WH023,Ludhiana Industrial WH,Punjab,50000,1400000,+91 2341558681
+WH024,Dankuni Eastern Hub,West Bengal,50000,1050000,+91 9180150282
+WH025,Kolkata Port Logistics,West Bengal,25000,600000,+91 2299704988
+WH026,Jaipur Central Depot,Rajasthan,50000,1000000,+91 9970374607
+WH027,Bhiwadi Goods Hub,Rajasthan,50000,1250000,+91 6358396060
+WH028,Bhubaneswar Distribution Centre,Odisha,25000,600000,+91 9000454771
+WH029,Kochi Maritime Depot,Kerala,50000,1200000,+91 6084130422
+WH030,Indore Logistics Park,Madhya Pradesh,25000,675000,+91 4986114514
+WH031,Vijayawada Express Node,Andhra Pradesh,15000,345000,+91 8166167622
+WH032,Delhi Integrated Depot,Delhi,50000,1150000,+91 1721448128
+WH033,Telangana Regional Warehouse 33,Telangana,35000,980000,+91 5819458685
+WH034,Madhya Pradesh Regional Warehouse 34,Madhya Pradesh,75000,1800000,+91 8600743474
+WH035,Maharashtra Regional Warehouse 35,Maharashtra,15000,435000,+91 1560073271
+WH036,Andhra Pradesh Regional Warehouse 36,Andhra Pradesh,35000,840000,+91 4577678631
+WH037,Kerala Regional Warehouse 37,Kerala,75000,2175000,+91 5059218902
+WH038,West Bengal Regional Warehouse 38,West Bengal,50000,1400000,+91 1114477641
+WH039,Maharashtra Regional Warehouse 39,Maharashtra,35000,980000,+91 2565856264
+WH040,Uttar Pradesh Regional Warehouse 40,Uttar Pradesh,25000,550000,+91 8677019017
+WH041,Telangana Regional Warehouse 41,Telangana,35000,1015000,+91 7817423384
+WH042,Gujarat Regional Warehouse 42,Gujarat,50000,1350000,+91 3782719160
+WH043,Andhra Pradesh Regional Warehouse 43,Andhra Pradesh,25000,625000,+91 6838711865
+WH044,Uttar Pradesh Regional Warehouse 44,Uttar Pradesh,25000,700000,+91 6827034720
+WH045,Tamil Nadu Regional Warehouse 45,Tamil Nadu,50000,1400000,+91 9760506808
+WH046,Gujarat Regional Warehouse 46,Gujarat,15000,435000,+91 4947969893
+WH047,Tamil Nadu Regional Warehouse 47,Tamil Nadu,50000,1000000,+91 6275261010
+WH048,Haryana Regional Warehouse 48,Haryana,75000,1575000,+91 7751049165
+WH049,Odisha Regional Warehouse 49,Odisha,25000,575000,+91 4269790997
+WH050,Tamil Nadu Regional Warehouse 50,Tamil Nadu,35000,735000,+91 5552231237
